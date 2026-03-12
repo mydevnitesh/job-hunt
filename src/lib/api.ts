@@ -54,9 +54,11 @@ function formatNumber(num: number): string {
   return num.toString();
 }
 
-export function getTimeAgo(dateStr: string): string {
+export function getTimeAgo(dateStr: string | null | undefined): string {
+  if (!dateStr) return "Date not available";
   const now = new Date();
   const posted = new Date(dateStr);
+  if (isNaN(posted.getTime())) return "Date not available";
   const diffMs = now.getTime() - posted.getTime();
   const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
 
@@ -82,7 +84,7 @@ export function filterByDate(jobs: Job[]): Job[] {
   const now = Date.now();
   const cutoff = now - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
   return jobs.filter((job) => {
-    if (!job.job_posted_at_datetime_utc) return true; // keep jobs with no date
+    if (!job.job_posted_at_datetime_utc) return false; // exclude jobs with no date (likely stale)
     const posted = new Date(job.job_posted_at_datetime_utc).getTime();
     return posted >= cutoff;
   });
