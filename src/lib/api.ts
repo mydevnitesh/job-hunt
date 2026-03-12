@@ -75,6 +75,28 @@ export function buildMailtoLink(job: Job, resumeUrl: string): string {
   return `mailto:?subject=${subject}&body=${body}`;
 }
 
+// Filter out jobs older than 3 months
+const MAX_AGE_DAYS = 90;
+
+export function filterByDate(jobs: Job[]): Job[] {
+  const now = Date.now();
+  const cutoff = now - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
+  return jobs.filter((job) => {
+    if (!job.job_posted_at_datetime_utc) return true; // keep jobs with no date
+    const posted = new Date(job.job_posted_at_datetime_utc).getTime();
+    return posted >= cutoff;
+  });
+}
+
+// Sort jobs by date, newest first
+export function sortByDate(jobs: Job[]): Job[] {
+  return [...jobs].sort((a, b) => {
+    const dateA = a.job_posted_at_datetime_utc ? new Date(a.job_posted_at_datetime_utc).getTime() : 0;
+    const dateB = b.job_posted_at_datetime_utc ? new Date(b.job_posted_at_datetime_utc).getTime() : 0;
+    return dateB - dateA; // newest first
+  });
+}
+
 // Min salary filter: 10 LPA = 1,000,000 INR
 const MIN_SALARY_THRESHOLD = 1000000;
 

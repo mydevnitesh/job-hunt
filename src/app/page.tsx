@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { Job } from "@/lib/types";
-import { searchJobs, filterBySalary } from "@/lib/api";
+import { searchJobs, filterBySalary, filterByDate, sortByDate } from "@/lib/api";
 import JobCard from "@/components/JobCard";
 import SearchFilters from "@/components/SearchFilters";
 import LoadingSkeleton from "@/components/LoadingSkeleton";
@@ -87,7 +87,9 @@ export default function Home() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const displayedJobs = applySalaryFilter ? filterBySalary(jobs) : jobs;
+  // Filter out jobs older than 3 months, sort newest first, then apply salary filter
+  const recentJobs = sortByDate(filterByDate(jobs));
+  const displayedJobs = applySalaryFilter ? filterBySalary(recentJobs) : recentJobs;
 
   return (
     <div className="min-h-screen bg-gray-50">
