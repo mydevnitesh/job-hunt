@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-14T06:56:13.278Z",
-  "totalJobs": 26,
+  "lastUpdated": "2026-03-15T06:41:46.454Z",
+  "totalJobs": 25,
   "queries": [
     "Chartered Accountant in Pune, India",
     "Corporate Finance CA in Pune, India",
@@ -11,31 +11,31 @@
   ],
   "data": [
     {
-      "job_id": "W6U2edFItlqNlymHAAAAAA==",
-      "job_title": "Looking For Deputy Manager – Business Tax ( 3+ yrs post CA exp in audit firm , CTC up to 18LPA)  in Pune for Top Indian Accounting & Advisory Firm",
-      "employer_name": "Rankskills Knowledge International Pvt Ltd",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSK9I-cwO1sF3JJ1LkLMj7XfRllJxf02hz5XZ&s=0",
-      "employer_website": null,
-      "job_publisher": "LinkedIn",
+      "job_id": "vcyua72E-XKkowuAAAAAAA==",
+      "job_title": "Senior Financial Planning & Analysis Specialist",
+      "employer_name": "Qualys",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2hYf-95KiClFrWQwPPZZ5iXP1KojUcAFuGSa&s=0",
+      "employer_website": "https://www.qualys.com",
+      "job_publisher": "Recruit.net",
       "job_employment_type": "Full-time",
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://in.linkedin.com/jobs/view/looking-for-deputy-manager-%E2%80%93-business-tax-3%2B-yrs-post-ca-exp-in-audit-firm-ctc-up-to-18lpa-in-pune-for-top-indian-accounting-advisory-firm-at-rankskills-knowledge-international-pvt-ltd-4383117495",
+      "job_apply_link": "https://www.recruit.net/job/financial-planning-analysis-specialist-jobs/A61EB7E830C3506D",
       "job_apply_is_direct": false,
       "apply_options": [
         {
-          "apply_link": "https://in.linkedin.com/jobs/view/looking-for-deputy-manager-%E2%80%93-business-tax-3%2B-yrs-post-ca-exp-in-audit-firm-ctc-up-to-18lpa-in-pune-for-top-indian-accounting-advisory-firm-at-rankskills-knowledge-international-pvt-ltd-4383117495",
+          "apply_link": "https://www.recruit.net/job/financial-planning-analysis-specialist-jobs/A61EB7E830C3506D",
           "is_direct": null,
-          "publisher": "LinkedIn"
+          "publisher": "Recruit.net"
         }
       ],
       "job_description": null,
       "job_is_remote": false,
-      "job_no_degree_mentioned": true,
-      "job_posted_at": "18 hours ago",
-      "job_posted_at_timestamp": 1773403200,
-      "job_posted_at_datetime_utc": "2026-03-13T12:00:00.000Z",
+      "job_no_degree_mentioned": null,
+      "job_posted_at": "7 hours ago",
+      "job_posted_at_timestamp": 1773529200,
+      "job_posted_at_datetime_utc": "2026-03-14T23:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
       "job_city": "Pune",
       "job_state": "Maharashtra",
@@ -44,7 +44,144 @@
       "job_longitude": 73.8786239,
       "job_benefits": null,
       "job_benefits_strings": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DW6U2edFItlqNlymHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dvcyua72E-XKkowuAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_salary_string": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": null,
+      "job_onet_job_zone": null,
+      "employer_reviews": null
+    },
+    {
+      "job_id": "ikWbOkKEyYf7ZUwoAAAAAA==",
+      "job_title": "Manager – FP&A (SaaS Only)",
+      "employer_name": "Trispoke Managed Services Pvt. Ltd.",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBeddztMzSrurBObFDBhglS-UnHDXLUM1MvWcm&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://in.linkedin.com/jobs/view/manager-%E2%80%93-fp-a-saas-only-at-trispoke-managed-services-pvt-ltd-4384663072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://in.linkedin.com/jobs/view/manager-%E2%80%93-fp-a-saas-only-at-trispoke-managed-services-pvt-ltd-4384663072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "apply_link": "https://in.linkedin.com/jobs/view/manager-%E2%80%93-fp-a-saas-only-at-trispoke-managed-services-pvt-ltd-4384663072",
+          "is_direct": null,
+          "publisher": "LinkedIn"
+        }
+      ],
+      "job_description": "• Candidate must be CA qualified\n• Candidate should have minimum 5 years of post CA qualification experience in Financial planning and analysis.\n• Candidate should be from SaaS or subscription-based companies\n• Deep understanding of SaaS metrics, revenue recognition, and ARR/MRR mechanics\n• Must have experience in Financial planning, budgeting and forecasting\n• Excellent stakeholder management and communication skills\n• Candidate should have experience in domestic market only (Within India)",
+      "job_is_remote": false,
+      "job_posted_at": "22 hours ago",
+      "job_posted_at_timestamp": 1773475200,
+      "job_posted_at_datetime_utc": "2026-03-14T08:00:00.000Z",
+      "job_location": "Pimpri-Chinchwad, Maharashtra, India",
+      "job_city": "Pimpri-Chinchwad",
+      "job_state": "Maharashtra",
+      "job_country": "IN",
+      "job_latitude": 18.6263131,
+      "job_longitude": 73.805498,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DikWbOkKEyYf7ZUwoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "11303100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "s-ojiGTPVP3nm3j7AAAAAA==",
+      "job_title": "day trader",
+      "employer_name": "Exvix Quantitative Research Pvt. Ltd",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGTeoTX2Wa36VkY-0AouMVTKSdT_uF-mfuywI&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://in.linkedin.com/jobs/view/day-trader-at-exvix-quantitative-research-pvt-ltd-4380676188?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://in.linkedin.com/jobs/view/day-trader-at-exvix-quantitative-research-pvt-ltd-4380676188?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "apply_link": "https://in.linkedin.com/jobs/view/day-trader-at-exvix-quantitative-research-pvt-ltd-4380676188",
+          "is_direct": null,
+          "publisher": "LinkedIn"
+        }
+      ],
+      "job_description": "We are seeking a talented and motivated individual to join our team as a Day Trader. As a Day Trader at Exvix Quantitative Research Pvt Ltd, you will be responsible for executing trades within the financial markets daily. This role requires a keen understanding of market trends, risk management strategies, and the ability to make quick, informed decisions in a fast-paced environment.\n\nResponsibilities:\n• Execute intraday trades across various asset classes, including stocks, futures, and currencies.\n• Analyze market data and economic indicators to identify trading opportunities.\n• Develop and implement trading strategies based on technical and fundamental analysis.\n• Manage risk effectively by setting stop-loss orders and adhering to proper risk management protocols.\n• Monitor trade positions and adjust strategies as market conditions evolve throughout the day.\n• Keep abreast of market news and events that may impact trading activity.\n• Collaborate with our team of traders and instructors to share insights and best practices with our community of students.\n\nQualifications:\n\nBachelor's degree in any field.\n\nProven experience as a day trader with a successful track record of generating consistent profits.\n\nStrong analytical skills and a deep understanding of technical analysis indicators.\n\nExcellent decision-making abilities and the capacity to thrive in a fast-paced trading environment.\n\nDemonstrated commitment to continuous learning and professional development in the field of trading.\n\nBenefits:\n\nCompetitive salary with performance-based incentives.\n\nA flexible remote work environment with the opportunity to work from anywhere in the world.\n\nAccess to cutting-edge trading tools and technology.\n\nOngoing training and mentorship from experienced traders.\n\nCareer advancement opportunities within our growing organization.\n\nHow to Apply:\n\nIf you are passionate about trading and possess the skills and experience required to excel in this role, we encourage you to apply by submitting the form. Join us at World Trades Academy and take the next step towards a rewarding career in the financial markets.\n• Exvix is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
+      "job_is_remote": false,
+      "job_posted_at": "22 hours ago",
+      "job_posted_at_timestamp": 1773475200,
+      "job_posted_at_datetime_utc": "2026-03-14T08:00:00.000Z",
+      "job_location": "Pune, Maharashtra, India",
+      "job_city": "Pune",
+      "job_state": "Maharashtra",
+      "job_country": "IN",
+      "job_latitude": 18.5246091,
+      "job_longitude": 73.8786239,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds-ojiGTPVP3nm3j7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "41303100",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "M33nhl99-4JLvBodAAAAAA==",
+      "job_title": "Manager Fund Accounting/Private Equity",
+      "employer_name": "The HIRD",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtIPbNNeO6WzK7mQNOVyTrs0kLWyX14qWwI8K&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://in.linkedin.com/jobs/view/manager-fund-accounting-private-equity-at-the-hird-4383619486",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "apply_link": "https://in.linkedin.com/jobs/view/manager-fund-accounting-private-equity-at-the-hird-4383619486",
+          "is_direct": null,
+          "publisher": "LinkedIn"
+        }
+      ],
+      "job_description": null,
+      "job_is_remote": false,
+      "job_no_degree_mentioned": null,
+      "job_posted_at": "1 day ago",
+      "job_posted_at_timestamp": 1773446400,
+      "job_posted_at_datetime_utc": "2026-03-14T00:00:00.000Z",
+      "job_location": "Pune, Maharashtra, India",
+      "job_city": "Pune",
+      "job_state": "Maharashtra",
+      "job_country": "IN",
+      "job_latitude": 18.5246091,
+      "job_longitude": 73.8786239,
+      "job_benefits": null,
+      "job_benefits_strings": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DM33nhl99-4JLvBodAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
       "job_salary_string": null,
       "job_min_salary": null,
@@ -66,19 +203,23 @@
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://in.linkedin.com/jobs/view/accountant-auditor-bank-audit-taxation-experience-at-param-and-company-chartered-accountants-4384216967",
+      "job_apply_link": "https://in.linkedin.com/jobs/view/accountant-auditor-bank-audit-taxation-experience-at-param-and-company-chartered-accountants-4384216967?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_apply_is_direct": false,
       "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://in.linkedin.com/jobs/view/accountant-auditor-bank-audit-taxation-experience-at-param-and-company-chartered-accountants-4384216967?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
         {
           "apply_link": "https://in.linkedin.com/jobs/view/accountant-auditor-bank-audit-taxation-experience-at-param-and-company-chartered-accountants-4384216967",
           "is_direct": null,
           "publisher": "LinkedIn"
         }
       ],
-      "job_description": null,
+      "job_description": "We Are Hiring – Audit & Accounting Professionals (Pune & Pimpri-Chinchwad)\n\nWe are expanding our team and looking for experienced professionals in Accounting, Audit, Taxation & Financial Services.\n\n🔍 Roles / Experience Preferred\n• Statutory / Internal Audit\n• Bank Audits – Concurrent, Statutory, Revenue, Stock\n• (Retired Bank Officers – Audit / Credit / Inspection preferred)\n• Taxation: GST, Income Tax, TDS, Compliance\n• ROC Return Filings and Other Statutory Compliances\n• Valuation – Basic knowledge of valuations\n• Insolvency – Basic knowledge of insolvency matters\n• Builder & Developer Accounting – Project Accounting, RERA, MIS\n• FEMA and RBI Compliance Guidelines – Knowledge will be an added advantage\n\n🎓 Eligibility\n• CA / CMA / Inter CA / Commerce Graduates / CA Articleship\n• Retired bank officials with audit or inspection experience\n• Professionals with basic to medium experience in audit, taxation & compliance\n📍 Location: Pune & Pimpri-Chinchwad📩 Apply at: manojagarwal20@paramandcompany.org",
       "job_is_remote": false,
-      "job_no_degree_mentioned": true,
-      "job_posted_at": "1 day ago",
+      "job_posted_at": "2 days ago",
       "job_posted_at_timestamp": 1773360000,
       "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
       "job_location": "Pimpri-Chinchwad, Maharashtra, India",
@@ -88,17 +229,14 @@
       "job_latitude": 18.6263131,
       "job_longitude": 73.805498,
       "job_benefits": null,
-      "job_benefits_strings": null,
       "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9eOIu7mvhhlb2emmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
-      "job_salary_string": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": null,
-      "job_onet_job_zone": null,
-      "employer_reviews": null
+      "job_onet_soc": "13201100",
+      "job_onet_job_zone": "4"
     },
     {
       "job_id": "Ha9rYI6cBZim4xBqAAAAAA==",
@@ -111,19 +249,23 @@
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://www.recruit.net/job/staff-accountant-stat-audit-jobs/194F4078CD0FFCB7",
-      "job_apply_is_direct": false,
+      "job_apply_link": "https://www.recruit.net/job/staff-accountant-stat-audit-jobs/194F4078CD0FFCB7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
       "apply_options": [
+        {
+          "publisher": "Recruit.net",
+          "apply_link": "https://www.recruit.net/job/staff-accountant-stat-audit-jobs/194F4078CD0FFCB7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
         {
           "apply_link": "https://www.recruit.net/job/staff-accountant-stat-audit-jobs/194F4078CD0FFCB7",
           "is_direct": null,
           "publisher": "Recruit.net"
         }
       ],
-      "job_description": null,
+      "job_description": "About B S R & Co. LLP\nB S R & Co. LLP is a member of the B S R & Affiliates network of firms registered with the Institute of Chartered Accountants of India. B S R & Co LLP has its presence in 14 cities in India with over 120 partners and an employee strength of over 5,000 professionals. The firm is engaged in audit, other assurance and taxation services. The firm has a client base spanning Indian businesses, multinationals, and listed companies in India across industry sectors. The endeavor is to continuously keep raising the bar in terms of audit quality, experience for our people, and adoption of better technology.\n\nAn independent audit of financial statements is essential for the effective operation of business entities and the capital markets. We are committed to providing a constructive and challenging audit, one that is also independent and delivers the messages that matter to management and the audit committee. Apart from financial statements audit (including IFRS and US GAAP reporting), we also provide other forms of assurance and attestation reporting. Should be from the Integrated Professional Competence Course (IPCC).Should have cleared both the groups of IPCC and be eligible to start article ship as per Institute rules. Should have strong inter personal skills & communication - both verbal and written Candidates awaiting results can also undergo the evaluation, registration of articleship will be subject to IPCC results.\n\nEqual employment opportunity information\n\nB S R & Co. LLP has a policy of providing equal opportunity for all applicants and employees regardless of their color, caste, religion, age, sex/gender, national origin, citizenship, sexual orientation, gender identity or expression, disability or other legally protected status. B S R & Co. LLP values diversity and we request you to submit the details below to support us in our endeavor for diversity. Providing the below information is voluntary and refusal to submit such information will not be prejudicial to you.\nCA Intern",
       "job_is_remote": false,
-      "job_no_degree_mentioned": null,
-      "job_posted_at": "1 day ago",
+      "job_posted_at": "2 days ago",
       "job_posted_at_timestamp": 1773360000,
       "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -133,51 +275,43 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
-      "job_benefits_strings": null,
       "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHa9rYI6cBZim4xBqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
-      "job_salary_string": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": null,
-      "job_onet_job_zone": null,
-      "employer_reviews": null
+      "job_onet_soc": "13201100",
+      "job_onet_job_zone": "4"
     },
     {
-      "job_id": "-gDap1Ryvg71QN6iAAAAAA==",
-      "job_title": "Finance Leader - India Tech Center (Pune)",
-      "employer_name": "The Toro",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_Q6JLM__gv7Tnesha8yrVsG-RMFXwGJE7Ahe&s=0",
-      "employer_website": "https://www.thetorocompany.com",
-      "job_publisher": "Jobrapido.com",
-      "job_employment_type": "Part-time",
+      "job_id": "W6U2edFItlqNlymHAAAAAA==",
+      "job_title": "Looking For Deputy Manager – Business Tax ( 3+ yrs post CA exp in audit firm , CTC up to 18LPA)  in Pune for Top Indian Accounting & Advisory Firm",
+      "employer_name": "Rankskills Knowledge International Pvt Ltd",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSK9I-cwO1sF3JJ1LkLMj7XfRllJxf02hz5XZ&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
       "job_employment_types": [
-        "PARTTIME"
+        "FULLTIME"
       ],
-      "job_apply_link": "https://in.jobrapido.com/jobpreview/3783773478759432192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_link": "https://in.linkedin.com/jobs/view/looking-for-deputy-manager-%E2%80%93-business-tax-3%2B-yrs-post-ca-exp-in-audit-firm-ctc-up-to-18lpa-in-pune-for-top-indian-accounting-advisory-firm-at-rankskills-knowledge-international-pvt-ltd-4383117495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_apply_is_direct": false,
       "apply_options": [
         {
-          "publisher": "Jobrapido.com",
-          "apply_link": "https://in.jobrapido.com/jobpreview/3783773478759432192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "publisher": "LinkedIn",
+          "apply_link": "https://in.linkedin.com/jobs/view/looking-for-deputy-manager-%E2%80%93-business-tax-3%2B-yrs-post-ca-exp-in-audit-firm-ctc-up-to-18lpa-in-pune-for-top-indian-accounting-advisory-firm-at-rankskills-knowledge-international-pvt-ltd-4383117495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
           "is_direct": false
         },
         {
-          "publisher": "Finance Jobs Hub",
-          "apply_link": "https://financejobshub.com/job/finance-leader-india-tech-center/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": true
-        },
-        {
-          "apply_link": "https://in.jobrapido.com/jobpreview/3783773478759432192",
+          "apply_link": "https://in.linkedin.com/jobs/view/looking-for-deputy-manager-%E2%80%93-business-tax-3%2B-yrs-post-ca-exp-in-audit-firm-ctc-up-to-18lpa-in-pune-for-top-indian-accounting-advisory-firm-at-rankskills-knowledge-international-pvt-ltd-4383117495",
           "is_direct": null,
-          "publisher": "Jobrapido.com"
+          "publisher": "LinkedIn"
         }
       ],
-      "job_description": "Job Title: Finance Leader Company :Toro Technology Center India\n\nWho Are We?\n\nThe Toro Company is a homegrown, Minnesota-based company that has been in business since 1914. We pride ourselves on providing world-class equipment to help maintain the environment that we love, while putting an emphasis on giving back to the communities that surround us. From residential lawns and gardens to Golf Clubs and sports grounds we are a company with a global footprint and a passion for helping people beautify whatever landscape they may be in. With 100+ years of operation under our belt and an average employee tenure of 15 years, come find out what makes The Toro Company the best place to build a career.\n\nWhat Will You Do?\n\nIn order to grow and build a successful career with The Toro Company, you will be responsible for:\n\n- Perform accounting, reporting, forecasting and tax support for Toro India.\n- Manage service providers supporting local tax, transfer pricing, and statutory audits.\n- Partner with global Finance, HR, and Legal leaders to ensure services meet evolving business needs.\n- Oversee India team supporting parent-company Finance (e.g. AP and forecasting support, tax compliance), HR (e.g. payroll, employee services, talent operations), and Legal (e.g. contract management, compliance monitoring) functions.\n- Ensure compliance with global policies, local regulations, and internal controls.\n- Manage risk assessments and regulatory requirements across Finance, HR, and Legal services.\n\nWhat Do You Need?\n\nTo be considered for this role, an individual should meet the following minimal requirements:\n\n- Chartered Accountant (CA) - COP active or inactive/not held – preferred\n- MBA Finance or equivalent.\n- 10+ years of progressive experience in finance, regulatory compliance, shared services, global operations, or business services, with at least 5 years in a leadership role.\n\nWhat Can We Give You?\n\nAt The Toro Company, we are always working to make sure our employees know just how valued they are. In addition to a competitive salary, an affordable and top tier medical insurance plan many other great advantages - The Toro company offers employees , a variety of perks, including:\n\nDress for your day - We know you're more productive when you're comfortable, which is why TTC employees are encouraged to take advantage of our casual, corporate environment.\n\nLocation – Conveniently located Baner, Pune we are centrally located for most commuters!\n\nFood - Take advantage of our café, which serves both breakfast and lunch. You can grab a snack and a coffee at any time during your day.\n\nWellness - The Toro Company offers complimentary use of our onsite fitness facility to employees. In addition to physical wellbeing, TTC offers a variety of mental health and financial health resources to all employees.\n\nVolunteerism - The Toro Company is proud to provide employees 20 hours of paid time to volunteer in the community.\n\nFlexible Work Arrangements – This team is currently implementing a hybrid work schedule. The opportunity to collaborate in the office and work from home part-time, has promoted team-building and flexibility.\n\nCompetitive Salary – The pay range takes into account skills, experience, education, and location. Cash compensation is one piece of our competitive total rewards package. Eligibility and award amounts are determined by company policy and performance metrics.\n\nAt The Toro Company, we are committed to fostering a secure and trustworthy recruitment process for our applicants. Recruitment fraud is a potential threat to job seekers, so please be aware that throughout our recruitment process, you’ll never be required to pay any fees or disclose personal financial details when applying to TTC opportunities.\n\nWe are proud to be an Equal Opportunity Employer and consider qualified applicants without regard to race, color, religion, sex (including pregnancy and related needs and conditions, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), political affiliation, military service, or other non-merit based factors. We are committed to creating an inclusive environment for all employees.",
+      "job_description": "Our client is An Indian MNC Audit & Advisory Firm with direct operations in India, Middle East , Europe and USA. They are looking for below role\n\nPosition- DM – Business Tax (Direct Tax)\n\nLocation-Pune\n\nExperience- 3+ years post CA qualification experience in audit / management firm\n\nEducation – CA(Qualified)\n\nSalary- Up to 18 LPA\n\nPrimary Skills- Business Tax (Direct Tax), Tax Compliance, Team Handling,\n\nNotice Period- At Earliest\n\nKey Result Areas:\n\n1. Operational Compliance & Advisory\n\n- Preparation, review and filing of income tax returns for corporate clients both Indian as well as foreign\n\n- Preparation (on exceptional basis) and review of monthly TDS working and quarterly TDS returns, quarterly advance tax working, SFT return, etc\n\n- Handling of dividend assignment from end-to-end\n\n- Providing advisory on withholding tax implications and applicable tax rates on various foreign remittances (Form 15CB issuance)\n\n- Providing international tax advisory on matters like POEM (Place of Effective Management), PE (Permanent Establishment) risk exposure, etc.\n\n- Handling corporate tax litigation including preparation of appeals, preparation of detailed submissions, research on legal issues up to the Tribunal level, etc.\n\n- Handling departmental interactions including Filing rectification and refund applications, Order-giving effects, Stay applications, etc.\n\n- Assisting partner in achieving their revenue target.\n\n2. Team Management\n\n- Training and grooming of team members for effective ground-level execution\n\n- Speaker at internal training sessions\n\n- Preparation of tax alerts on key direct tax updates and amendments\n\n3. Business Development & Client Relationship Management\n\n- Preparation of proposals/presentations for prospective clients\n\n- Participating in meetings with key clients\n\n- Building client relationship and becoming single point of contact for the client\n\n4. Practice Management\n\n- Ensuring timely billing of the clients on monthly basis\n\n- Ensuring collections and follow-ups with clients for outstanding dues\n\n- Assistance in preparation of Monthly MIS reports\n\nRequired Competencies, Skills, and Experience\n\n• Qualified Chartered Accountant with 3-5 years of post-qualification experience in Direct Tax.\n\n• Experience in handling international tax advisory matters like POEM, PE risk exposure, etc.\n\n• Good writing and oral communication skills\n\n• Knowledge of basic IT applications like MS Office, Tally, Winman, etc.,\n\n• Ability to read and interpret various tax treaties,\n\n• Experience in handling litigation matters,\n\n• Experience in handling team",
       "job_is_remote": false,
-      "job_posted_at": "1 day ago",
+      "job_posted_at": "2 days ago",
       "job_posted_at_timestamp": 1773360000,
       "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -187,13 +321,13 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-gDap1Ryvg71QN6iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DW6U2edFItlqNlymHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": "11303100",
+      "job_onet_soc": "13201100",
       "job_onet_job_zone": "4"
     },
     {
@@ -223,7 +357,7 @@
       ],
       "job_description": "Business Development Lead (Finance domain) (company will sponsor UK visa)\n\nEmployer: XCELENTRA FINANCIAL SERVICES LTD\n\nLocation: Baner, Pune, India & United Kingdom (On-site)\n\nEmployment Type: Permanent\n\nJob Reference: IND-UKBD2026\n\nXCELENTRA is a rapidly growing global financial consulting and outsourcing firm with operations across the UK, Europe, India, North America and APAC. We are looking for a high-growth career opportunity for a motivated Business Development Lead to join our UK office in Milton Keynes.\n\nThis role is ideal for someone who wants to go beyond traditional sales and step into a dynamic, client-facing, fast-paced consulting and business development environment. You’ll work closely with international teams, support UK compliance and taxation, manage client relationships, and contribute directly to business growth.\n\nIf you’re ambitious, analytical and eager to build a strong business development career with global exposure, this is the opportunity to accelerate your journey.\n\n⭐ Key Responsibilities\n• Lead end-to-end onboarding and management of UK clients (accounting, VAT, payroll etc)\n• Provide clients with clear solutions and compliance guidance\n• Manage client relationships, resolve financial queries and ensure seamless service delivery including client satisfaction\n• Collaborate with financial expert and teams across the UK, India, and other global offices\n• Lead presentations, pitch decks and proposals for the new clients\n• Maintain adherence to UK regulatory requirements and internal controls\n• Assist in identifying business development opportunities and driving service excellence\n\n⭐ Mandatory Requirements\n• Should be a qualified Chartered Accountant\n• 3 – 5 years of experience in sales or business development in Finance sector\n• Experience with international clients or multi-country financial environments is an advantage\n• Excellent communication skills and a client-focused, professional mindset\n• Proficiency in Excel, PowerPoint, MS Office and familiarity with accounting tools\n• Strong analytical and problem-solving skills\n• Ability to work full-time onsite from our Milton Keynes office. Selected candidates will be sponsored a visa by Xcelentra to work in UK.\n\n⭐ Key Highlights of the Role\n• A fast-track position for candidates looking to develop into a Business Development Manager in Finance domain\n• Work directly with UK and international clients for onboarding and providing services including accounting, tax, payroll and compliance\n• High-impact role within a growing consulting firm\n• Work closely with leadership and gain mentorship in finance, consulting, and client management\n• Opportunity to participate in strategic decision-making and client advisory\n\n⭐ What Makes This Opportunity Unique\n• Grow your business development career in a global consulting firm that values entrepreneurial thinking\n• Work directly with leadership\n• A role designed for professionals who want more than just business development - a real pathway to leadership, impact and international exposure\n\n⭐ Information\n\nSalary: as per industry standard\n\nPlease send your CV and cover letter to roshan@xcelentra.com\n• Subject line: IND-UKBD2026 – Your First Name",
       "job_is_remote": false,
-      "job_posted_at": "2 days ago",
+      "job_posted_at": "3 days ago",
       "job_posted_at_timestamp": 1773273600,
       "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -240,103 +374,6 @@
       "job_salary_period": null,
       "job_highlights": {},
       "job_onet_soc": "11303100",
-      "job_onet_job_zone": "4"
-    },
-    {
-      "job_id": "QLGrkdINnpMzpXySAAAAAA==",
-      "job_title": "Senior Accountant- US Accounting & Taxation",
-      "employer_name": "Oliham Consulting LLC",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYKN7zCDQtibiwHMaRXuk5tGXRd3F5ceIor1L&s=0",
-      "employer_website": "https://olihamconsulting.com",
-      "job_publisher": "LinkedIn",
-      "job_employment_type": "Full-time",
-      "job_employment_types": [
-        "FULLTIME"
-      ],
-      "job_apply_link": "https://in.linkedin.com/jobs/view/senior-accountant-us-accounting-taxation-at-oliham-consulting-llc-4383001989?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_apply_is_direct": false,
-      "apply_options": [
-        {
-          "publisher": "LinkedIn",
-          "apply_link": "https://in.linkedin.com/jobs/view/senior-accountant-us-accounting-taxation-at-oliham-consulting-llc-4383001989?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Truemote",
-          "apply_link": "https://truemote.com/remote-job/remote-senior-accountant-us-accounting-and-taxation-b387ad33?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "apply_link": "https://in.linkedin.com/jobs/view/senior-accountant-us-accounting-taxation-at-oliham-consulting-llc-4383001989",
-          "is_direct": null,
-          "publisher": "LinkedIn"
-        }
-      ],
-      "job_description": "About the job\n\nSenior Accountant – US Small Business Clients (Remote)About Us\n\nWe are a boutique Accounting & Business Consulting firm helping small businesses take their operations to the next level.\n\nOur firm supports U.S. small business clients with accounting, taxation, financial reporting, FP&A, and fractional CFO services.\n\nWe operate through a modern virtual office structure, bringing together talented professionals from around the world to collaborate in a fully remote but structured work environment while delivering high-quality services to our clients.\n\nRole Description\n\nThis is a remote full-time role for a Senior Accountant supporting U.S. small business clients.\n\nThe Senior Accountant will be responsible for managing client relationships, providing accounting and financial insights, performing bookkeeping in QuickBooks Online, preparing U.S. tax returns, and running payroll through Gusto or ADP.\n\nThe role also involves analyzing financial data, preparing monthly financial reports, and communicating insights to clients through regular review calls.\n\nSenior Accountants will also supervise junior accountants to ensure timely and accurate completion of client work.\n\nKey Responsibilities\n\n• Manage accounting and bookkeeping for multiple U.S. small business clients\n\n• Maintain and review client books in QuickBooks Online\n\n• Prepare U.S. individual and small business tax returns\n\n• Run payroll using Gusto or ADP\n\n• Review and finalize monthly financial statements\n\n• Analyze financial results and provide insights to clients\n\n• Conduct monthly financial review calls with U.S. clients\n\n• Communicate directly with U.S. clients to explain financial reports and tax matters\n\n• Supervise junior accountants during the monthly close process\n\n• Manage client communication through Canopy and Outlook\n\n• Ensure accuracy, timeliness, and high-quality client service\n\nQualifications\n\n• Bachelor’s degree in Accounting or Finance\n\n• CPA or EA designation preferred\n\n• Experience preparing U.S. tax returns including Form 1040, 1120S, and 1065\n\n• Minimum 2+ years experience managing U.S. small business clients\n\n• Strong expertise in QuickBooks Online\n\n• Experience with Gusto or ADP payroll\n\n• Excellent communication and client relationship skills\n\n• Ability to manage multiple clients simultaneously\n\n• Strong analytical and problem-solving skills\n\n• Comfortable working in a structured remote team environment\n\nWork Details\n\n• Remote Full-Time Position\n\n• Team members work within a virtual office environment where employees are online together during office hours\n\n• This role requires working during designated office hours and collaborating with the team in real time\n\n• Office timing: 3:00 PM – 12:00 AM IST\n\n• This is not a flexible “work at your own time” remote role\n\n• Immediate joiners preferred\n\nApplication Instructions\n\nWhen applying, please include a brief note answering the following:\n• Your experience working with U.S. small business clients\n• Which U.S. tax returns you have personally prepared (1040, 1120S, 1065)\n• Your experience using QuickBooks Online\n\nRequirements added by the job poster\n\n• 5+ years of Accounting experience\n\n• 2+ years of work experience with QuickBooks Online\n\n• Master's Degree",
-      "job_is_remote": true,
-      "job_posted_at": "2 days ago",
-      "job_posted_at_timestamp": 1773273600,
-      "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-      "job_location": "Pune, Maharashtra, India",
-      "job_city": "Pune",
-      "job_state": "Maharashtra",
-      "job_country": "IN",
-      "job_latitude": 18.5246091,
-      "job_longitude": 73.8786239,
-      "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQLGrkdINnpMzpXySAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-      "job_salary": null,
-      "job_min_salary": null,
-      "job_max_salary": null,
-      "job_salary_period": null,
-      "job_highlights": {},
-      "job_onet_soc": "13201100",
-      "job_onet_job_zone": "4"
-    },
-    {
-      "job_id": "O5OlixMQsD6HDpSYAAAAAA==",
-      "job_title": "Corporate Finance Associate",
-      "employer_name": "Frido",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWea3O1wXP4d61BIy6jIKvatHQDwwKG3O7Hb_6&s=0",
-      "employer_website": "https://myfrido.com",
-      "job_publisher": "Recruit.net",
-      "job_employment_type": "Full-time",
-      "job_employment_types": [
-        "FULLTIME"
-      ],
-      "job_apply_link": "https://www.recruit.net/job/corporate-finance-associate-jobs/C981F05CDA35939F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_apply_is_direct": false,
-      "apply_options": [
-        {
-          "publisher": "Recruit.net",
-          "apply_link": "https://www.recruit.net/job/corporate-finance-associate-jobs/C981F05CDA35939F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "apply_link": "https://www.recruit.net/job/corporate-finance-associate-jobs/C981F05CDA35939F",
-          "is_direct": null,
-          "publisher": "Recruit.net"
-        }
-      ],
-      "job_description": "Company - Frido\n\nJob Type - On-site (Full-time)\n\nLocation - Pune\n\nWork Days - Monday to Saturday (10 am to 7 pm)\n\nDepartment - Finance\n\nDesignation - Investment Banking Analyst\n• Immediate joiners preferred/Notice Period should be less than 30 days*\n\nCompany Overview\n\nFrido is a Pune-based D2C startup building products in the health care and consumer categories. We are dedicated to enhancing daily living through innovative, ergonomic solutions that promote comfort and well-being. Our mission is to design the next generation of products to empower people to walk, sit, and sleep better. (\n\nKey Responsibilities\n• Build detailed financial models, valuation analyses (e.G., DCF, comparable transactions, precedent deals), and scenario assessments to support M&A, IPO, and capital raising transactions\n• Conduct in-depth industry, company, and market research, synthesizing data from multiple sources\n• Monitor developments and key news relevant to Consumer, Retail and E-Commerce sectors\n• Prepare pitch books, presentations, and marketing materials for internal stakeholders\n• Assist in due diligence, gathering and verifying critical data and documentation for transactions\n• Prepare and present regular status reports, analyses, and updates to senior management\n• Candidate will work very closely with senior management on high impact assignments\n\nRequired Qualifications\n• CA/MBA from Top-Tier College with 2-3 years of relevant experience in Investment Banking role\n• Proficiency in Excel (financial modelling), PowerPoint, and basic financial databases/platforms\n• Exceptional quantitative, analytical, and problem-solving skills\n• Strong attention to detail and ability to multi-task on tight deadlines\n• Excellent written and verbal communication skills for presenting analysis and recommendations\n\nPreferred Experience\n• Prior internship or experience in investment banking, corporate finance, consulting, audit, or private equity\n• Familiarity with valuation methodologies and transaction structuring\n\nInterested candidates can send their CVs to and along with a brief about yourself.",
-      "job_is_remote": false,
-      "job_posted_at": "3 days ago",
-      "job_posted_at_timestamp": 1773187200,
-      "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-      "job_location": "Pune, Maharashtra, India",
-      "job_city": "Pune",
-      "job_state": "Maharashtra",
-      "job_country": "IN",
-      "job_latitude": 18.5246091,
-      "job_longitude": 73.8786239,
-      "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DO5OlixMQsD6HDpSYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-      "job_salary": null,
-      "job_min_salary": null,
-      "job_max_salary": null,
-      "job_salary_period": null,
-      "job_highlights": {},
-      "job_onet_soc": "13205100",
       "job_onet_job_zone": "4"
     },
     {
@@ -374,7 +411,7 @@
           "is_direct": false
         },
         {
-          "publisher": "GetMeReferred",
+          "publisher": "Getmereferred.com",
           "apply_link": "https://getmereferred.com/job-listing/finance-and-accounting-fa-trainer-johnson-controls-pune-5-to-7-years-experience-013b7811-f046-4a3c-a38c-21d628f05cd4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
           "is_direct": false
         },
@@ -401,7 +438,7 @@
       ],
       "job_description": "Job Details\n\nAbout the job\n\nOur team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!\n\nJob Summary\n\nWe are seeking a detail-oriented and experienced Finance & Accounting professional to manage end-to-end accounting, financial reporting, statutory compliance, and internal controls. The role is critical to ensuring accurate financial statements, regulatory compliance, effective cash flow management, and timely statutory and vendor payments.\n\nKey Responsibilities\n\n• Own monthly, quarterly, and annual financial statements and close process\n\n• Lead statutory, tax, and internal audits; ensure a strong control environment and full compliance with SOX and Internal controls over financial reporting.\n\n• Manage direct and indirect tax compliance (TDS, GST, advance tax, corporate tax), working closely with internal team as well as advisors\n\n• Oversee payroll accounting and statutory compliance (PF, ESI, NPS)\n\n• Ensure strong balance-sheet controls, reconciliations, and cash flow management\n\n• Manage fixed asset accounting, capitalization, and physical verification\n\n• Oversee accounts payable, vendor reconciliations, statutory/vendor payments and travel & reimbursements\n\n• Ensure compliance with RBI, MCA, FEMA, labor laws and other regulatory compliances and proactively engage with relevant stakeholders on upcoming changes\n\n• Drive process improvements, controls, and reporting quality\n• Serve as the primary Accounting and Finance point of contact (POC) for senior leadership, collaborating closely with Directors and HR Partners to provide oversight, guidance, and strategic support for departmental initiatives.\n• Supports Intercompany(IC) billing and collection and ensuring elimination with IC by maintaining appropriate reconciliations.\n\nQualifications & Experience\n• Chartered Accountant (CA) certification required.\n• 12–15 years of experience in financial accounting and controllership with with at least 3+ years in a senior controllership or finance leadership role.\n• Strong knowledge of Indian tax, regulatory, and compliance requirements\n• Experience with ERP systems and internal controls\n• Proven experience managing shared services or global capability centers supporting multinational operations is strongly preferred\n• Public accounting experience at a Big 4 firm is strongly preferred\n• Stakeholder Influence: Necessary for engaging with local/global leadership, local auditors/advisor, and regulatory bodies.\n• Excellent verbal and written communication skills; ability to present findings to executive leadership.\n• This role has potential to grow to a regional controller role of South-Asia, so multi region experience is an advantage.\n\nSchedule\n\nFull time\n\nAffiliated Companies\nAffiliated Companies: CENCORA BUSINESS SERVICES INDIA PRIVATE LIMITED\n\nEqual Employment Opportunity\n\nCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.\n\nThe company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.\n\nCencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned",
       "job_is_remote": false,
-      "job_posted_at": "3 days ago",
+      "job_posted_at": "4 days ago",
       "job_posted_at_timestamp": 1773187200,
       "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -421,29 +458,29 @@
       "job_onet_job_zone": "4"
     },
     {
-      "job_id": "kO7jLEPwhwqg7giVAAAAAA==",
-      "job_title": "Senior Accountant at Pune",
-      "employer_name": "RM Constructions, Pune",
+      "job_id": "KTZ0nhD7S0AL041nAAAAAA==",
+      "job_title": "Lead Analyst - FP&A and Power BI",
+      "employer_name": "Principal Global Services",
       "employer_logo": null,
-      "employer_website": null,
-      "job_publisher": "LinkedIn",
+      "employer_website": "https://www.principal.com",
+      "job_publisher": "Careers At Principal - Principal Financial",
       "job_employment_type": "Full-time",
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://in.linkedin.com/jobs/view/senior-accountant-at-pune-at-rm-constructions-pune-4382012806",
+      "job_apply_link": "https://careers.principal.com/careers-home/jobs/50292?utm_source=ziprecruiter",
       "job_apply_is_direct": false,
       "apply_options": [
         {
-          "apply_link": "https://in.linkedin.com/jobs/view/senior-accountant-at-pune-at-rm-constructions-pune-4382012806",
+          "apply_link": "https://careers.principal.com/careers-home/jobs/50292?utm_source=ziprecruiter",
           "is_direct": null,
-          "publisher": "LinkedIn"
+          "publisher": "Careers At Principal - Principal Financial"
         }
       ],
       "job_description": null,
       "job_is_remote": false,
       "job_no_degree_mentioned": null,
-      "job_posted_at": "4 days ago",
+      "job_posted_at": "5 days ago",
       "job_posted_at_timestamp": 1773100800,
       "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -454,7 +491,7 @@
       "job_longitude": 73.8786239,
       "job_benefits": null,
       "job_benefits_strings": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkO7jLEPwhwqg7giVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKTZ0nhD7S0AL041nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
       "job_salary_string": null,
       "job_min_salary": null,
@@ -464,72 +501,6 @@
       "job_onet_soc": null,
       "job_onet_job_zone": null,
       "employer_reviews": null
-    },
-    {
-      "job_id": "KTZ0nhD7S0AL041nAAAAAA==",
-      "job_title": "Lead Analyst - FP&A and Power BI",
-      "employer_name": "Principal Global Services",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztiTaUONF_Uhc0gXrGpJ5OgQ2cD1LW5pWlkKu&s=0",
-      "employer_website": "https://www.principal.com",
-      "job_publisher": "Careers At Principal - Principal Financial",
-      "job_employment_type": "Full-time",
-      "job_employment_types": [
-        "FULLTIME"
-      ],
-      "job_apply_link": "https://careers.principal.com/careers-home/jobs/50292?utm_source=ziprecruiter&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_apply_is_direct": true,
-      "apply_options": [
-        {
-          "publisher": "Careers At Principal - Principal Financial",
-          "apply_link": "https://careers.principal.com/careers-home/jobs/50292?utm_source=ziprecruiter&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": true
-        },
-        {
-          "publisher": "SimplyHired",
-          "apply_link": "https://www.simplyhired.co.in/job/nWFhWf_XJBpG_W88h2OfU9fBs9_EnwAIkqEPb2_kBINV1C6EjF00MA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jobrapido.com",
-          "apply_link": "https://in.jobrapido.com/jobpreview/917269699333455872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "ZipRecruiter India",
-          "apply_link": "https://www.ziprecruiter.in/jobs/509105999-lead-analyst-fp-a-and-power-bi-at-principal-global-services?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Recruit.net",
-          "apply_link": "https://www.recruit.net/job/analyst-fp-power-bi-jobs/E98F06F4F5337396?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "apply_link": "https://careers.principal.com/careers-home/jobs/50292?utm_source=ziprecruiter",
-          "is_direct": null,
-          "publisher": "Careers At Principal - Principal Financial"
-        }
-      ],
-      "job_description": "Responsibilities\n\nLead Analyst - Accounting\n\nExp - 6 - 10 years\n\nShift Timings - 1.30 PM - 10.30 PM\n• Build, maintain, and enhance Power BI dashboards to support forecasting, performance tracking, and management reporting for SCBUs.\n• Design intuitive, leadership‑friendly visualizations that highlight KPIs, financial trends, and business drivers.\n• Automate manual reports and recurring processes using Power BI, Power Query, and other analytical tools to improve efficiency and reduce turnaround time.\n• Collect, clean, aggregate, and validate data from multiple SCBUs and enterprise systems to ensure accuracy and reliability of reporting.\n• Establish and maintain data links between different sources, building data models, and maintaining reporting datasets to support end‑to‑end dashboard operations. (Power BI datasets, Oracle Essbase/ Peoplesoft, Advanced Excel, PowerPoint, etc.) to create a seamless reporting ecosystem.\n• Support forecasting, actuals reporting, and value analysis by preparing data inputs and performing first‑level variance reviews.\n• Provide initial analytical support for performance metrics, and operational KPIs, highlighting anomalies and key insights.\n• Assist in documenting processes, data flows, and dashboard refresh cycles.\n• Highlight trends, outliers, and data inconsistencies.\n• Support the SCBU FP&A team in process redesign, reporting improvements, and system enhancements to align with evolving business requirements.\n• Work collaboratively with SCBU FP&A teams and cross‑BU finance partners to share best practices and ensure alignment of data and reporting standards.\n• Gain a strong understanding of financial data structures, systems, and reporting tools used within the organization.\n• Manage assigned deliverables independently, including prioritizing multiple tasks, meeting deadlines, and maintaining high‑quality outputs.\n• Prepare clear, visually effective presentations and insights for leadership consumption.\n\nQualifications\n\nEducation & Experience\n• Master’s degree / Professional Degree / Relevant Industry Certification\n• Preferably Chartered Accountant or MBA Finance\n• 6-10 years’ of relevant experience in handling complex datasets, analytics, reporting, automation & PowerBI skills. (preferably in BFSI Industry, either in GCC / service provider environment)\n\nTechnical Skills\n• Strong hands‑on experience with Power BI—data modeling, DAX, dashboards, and report publishing.\n• Proficiency in Oracle Essbase/ Peoplesoft, Excel (advanced formulas, pivot tables, Power Query), PowerPoint.\n• Comfort working with large datasets and connecting to varied data sources.\n• Basic understanding of financial statements (Income Statement, Balance Sheet).\n• Experience with data cleansing, validation, and transformation.\n• Exposure to SQL or other database/querying tools\n\nAnalytical & Soft Skills\n• Strong problem‑solving ability and high attention to detail.\n• Good communication skills with ability to translate data into insights.\n• Ability to work independently, manage multiple tasks, and prioritize effectively.\n• Eagerness to learn and develop deeper financial acumen.",
-      "job_is_remote": false,
-      "job_posted_at": "4 days ago",
-      "job_posted_at_timestamp": 1773100800,
-      "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
-      "job_location": "Pune, Maharashtra, India",
-      "job_city": "Pune",
-      "job_state": "Maharashtra",
-      "job_country": "IN",
-      "job_latitude": 18.5246091,
-      "job_longitude": 73.8786239,
-      "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKTZ0nhD7S0AL041nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-      "job_salary": null,
-      "job_min_salary": null,
-      "job_max_salary": null,
-      "job_salary_period": null,
-      "job_highlights": {},
-      "job_onet_soc": "13205100",
-      "job_onet_job_zone": "4"
     },
     {
       "job_id": "gK42mSitdHa12rr5AAAAAA==",
@@ -563,7 +534,7 @@
       ],
       "job_description": "About the Role:\n\nThe Supply Chain Risk Analyst will be responsible for identifying, assessing, and managing risks associated with third parties. The analyst will work closely with various departments and stakeholders to develop and implement effective risk management strategies. Additionally, the analyst will be responsible for understanding and mitigating Environmental, Social, and Governance (ESG) risks within the supply chain. This includes evaluating the environmental impact of suppliers, ensuring fair labor practices, and maintaining compliance with governance standards.\n\nResponsibilities:\n• Risk Assessment: Assess risks including Geographical, Reputational, Cyber Security, Sanctions, Human Resources, Business Continuity, Anti-Bribery/Anti-Corruption, Artificial Intelligence, ESG, and Privacy.\n• Daily Operations: Perform day-to-day responsibilities of the SCRM program, including intake and handling of requests for new third parties, gathering documentation for due diligence and onboarding tasks, and maintaining the SCRM database.\n• Monitoring: Monitor third parties for changes in their risk profile, including mergers and acquisitions, regulatory changes, and other external factors.\n• Risk Assessment: Conduct risk assessments on new and existing third parties.\n• Database Maintenance: Ensure the integrity of the SCRM database by accurately documenting and consistently updating contact information, products, and services to maintain reliable and trustworthy data.\n• Reporting: Assist in generating standardized reports to inform business owners and management on third-party risk and performance.\n• Risk Management: Encourage and enable effective risk management change.\n• Support: Provide support and expertise to business owners on third-party relationship management.\n• Incident Management: Conduct ongoing management of escalations and incidents related to due diligence and monitoring of third parties.\n• Remediation: Facilitate or assist in the remediation of any third-party-related findings or issues.\n• Program Improvement: Contribute to the improvement of the Supply Chain Risk Management Program.\n• Vendor Communication: Communicate with third-party vendors to address identified risks and ensure compliance with contractual obligations and regulatory requirements.\n• Industry Trends: Stay abreast of industry trends and best practices related to Supply Chain Risk Management.\n• Special Projects: Assist with any special projects as needed.\n• Bachelor’s degree in Information Security, Business Administration, or a related field.\n• Minimum of 2 years of experience in third-party risk\n\nOur Interview Practices\n\nTo maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process.\n\nApplicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.",
       "job_is_remote": false,
-      "job_posted_at": "4 days ago",
+      "job_posted_at": "5 days ago",
       "job_posted_at_timestamp": 1773100800,
       "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
       "job_location": "Pimpri-Chinchwad, Maharashtra, India",
@@ -614,7 +585,7 @@
       ],
       "job_description": "Position Type\n\nFull time\n\nType Of Hire\n\nExperienced (relevant combo of work and education)\n\nEducation Desired\n\nBachelor's Degree\n\nJob Description\n\nAs the world works and lives faster, FIS is leading the way. Our fintech solutions touch nearly every market, company and person on the planet. Our teams are inclusive and diverse. Our colleagues work together and celebrate together. If you want to advance the world of fintech, we’d like to ask you~ Are you FIS?\n\nAbout The Role\n\nThe Business Analyst will work as a liaison between the product management and development team to analyze the business requirements, convert those into functional specifications and get projects ready for development. The candidate will also need to participate in integration testing and validating new functions to certify they meet business requirements. The role also involves working with the SQA team & the Release Engineering team to make sure projects are released to clients on time. The candidate needs to possess strong analytical skills, excellent communication abilities, and a deep understanding of business operations and the overall SDLC processes.\n\nWhat You Will Be Doing\n• Analyzing Business requirement\n• Preparing Functional Specifications documents\n• Functional/Integration testing\n• Creating and maintaining project artifacts\n• Project Implementation in co-ordination with SQA and Release Engineering\n\nWhat You Bring\n• Understanding of trading and settlement of Equities, Options and Fixed Income securities\n• Knowledge of Order Management Systems & awareness on Back/Middle office functions\n• Understanding of risk monitoring and margining methods\n• Knowhow on options & equity strategy parings\n• Knowledge of Agile/Scrum practices\n• Knowhow of SDLC processes\n\nWhat We Offer You\n\nPrior experience as a Business Analyst involved in the US trading/margining systems is preferred.\n\nPrivacy Statement\n\nFIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.\n\nSourcing Model\n\nRecruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.\n\n#pridepass",
       "job_is_remote": false,
-      "job_posted_at": "4 days ago",
+      "job_posted_at": "5 days ago",
       "job_posted_at_timestamp": 1773100800,
       "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
       "job_location": "Pimpri-Chinchwad, Maharashtra, India",
@@ -660,7 +631,7 @@
       ],
       "job_description": "Infosys BPM\n\nWebsite: infosysbpm.com\n\nJob details:\n\nGreetings from Infosys BPM Ltd.,\n\nWe are doing Walkin Drive for Capital Market & Investment Banking for Pune. Please walk-in for the interview on 14th March 2026 in Pune.\n\nNote: Please carry copy of this email to the venue and make sure you register your application before attending the walk-in. Please use below link to apply and register your application.\n\nPlease mention Candidate ID on top of the Resume ***\n\nProcess Lead/Team Lead - 4Yr to 6Yrs experience:\n\nhttps://career.infosys.com/jobdesc?jobReferenceCode= PROGEN-REFERRAL-240191\n\nInterview details:\n\nInterview Date: 14th March 2026\n\nInterview Time: 10:00 AM to 1:00 PM IST\n\nInterview Venue:\n\nINFOSYS BPM - Phase 3 Pune MH, Infosys limited, Angsana Building, Ascendas Capitaland, Rajiv Gandhi International Tech Park, Pune, Hinjewadi Phase-3, PIN - 411057\n\nPlease find below Job Description for your reference:\n\nJob Location: Pune (5 Days Work from Office)\n\nQualification: B.Com, BA, BBA - Full time Graduates\n\nExperience: 4-6 Years\n\nNotice Period: Immediate joiners\n\nShift Timings: flexible to work in 24*7\n\nJob Level: 4B\n\nDesignation: Process Lead/Team Lead\n\nFunctional Domain:\n• Capital and Money Markets\n• Global Custody Operations\n• Trade Life Cycle, Trade Settlements, International and Local Market Practices\n• Product Control Division\n• Securities Setups and Database\n• Nostro, CAS A/C, Transfer Agency\n• Internal Accounts, Domestic Securities\n• Major Asset Classes - Equities and Fixed\n• Derivatives - Swaps, Options, FCC, Futures, CRS, CCS, CDS, Exotic Instruments, OTC vs. Centrally Cleared\n• Event Management, Entitlements, Claims, MIS, Taxations, Notifications\n\nApplications and Technical Prowess\n• TLM, SWIFT\n• Interactive Data Management\n• Mainframe applications synchronization tools, auto uploaders\n• Euroclear\n• Clearstream\n• DTC\n• Bloomberg, Reuters, S&P, Moody's, Fitch\n• Market Insight Tools\n\nEducation & Experience:\n• Post Graduation preferred\n• Graduation and PG - Synced\n• Specialized Degrees - CA, CFA, NCFM, FINRA, CCRA, FPSB - CFP\n\nSpecial Skills:\n• Green Belt is mandatory\n• Team Management - Min 10\n• Team KRAs - SLM adherence, RCA, CAPA and Action plans\n• Excellent communication skills\n• Transitions - Added advantage\n\nDocuments to Carry:\n• Carry a printout your updated resume.\n• Carry any 2 photo Identity proof (PAN Card/Driving License/Voters ID card/Passport).\n• All original education documents needs to be available for verification (10th, 12th, Graduation(Sem Wise Marksheet, CMM. Provisional and Original Degree)\n\nNote: Talents should have graduation completion certificate, mark sheets & relevant experience letters for onboarding.\n\nPlease carry headphone / earphone for aptitude assessment for JL3A which will be held at the campus during the drive.\n\nPointers to note:\n• Please do not carry laptops/cameras to the venue as these will not be allowed due to security restrictions.\n• Original Government ID card is must for Security Clearance\n\nThanks & Regards,\n\nInfosys Recruitment Team.\n\nClick on Apply to know more.",
       "job_is_remote": false,
-      "job_posted_at": "4 days ago",
+      "job_posted_at": "5 days ago",
       "job_posted_at_timestamp": 1773100800,
       "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
       "job_location": "Pune City, India",
@@ -706,7 +677,7 @@
       ],
       "job_description": "About the Company: The company operates in the consumer appliances industry, focusing on designing and delivering cutting-edge home and kitchen solutions for modern households.\n\nRoles and Responsibilities:\n\nA. Financial Control & Accounting\nOwn end-to-end accounting, GL, reconciliations, and month-end close\nEnsure financial statements are accurate, complete, and timely\nLead statutory, tax, and internal audits\nBuild and sustain strong internal controls and documentation\n\nB. MIS, Reporting & Business Intelligence\nDesign and own MIS across:\nSKU-wise and category-wise gross margins\nChannel-wise profitability (GT / MT / E-commerce)\nDealer outstanding ageing and credit exposure\nInventory turns, slow-moving, and obsolete stock\nLead budgeting, forecasting, and variance analysis\nTranslate data into explicit, actionable insights for the business\n\nC. Working Capital & Cash Flow\nOwn AR, AP, and Inventory governance end-to-end\nDesign and implement dealer credit policies and limits\nRun rolling 13-week cash flow forecasts\nImprove cash conversion as revenue scales\nPartner with sales and supply chain to balance growth with liquidity\n\nD. Taxation & Compliance\nEnsure timely and accurate GST, TDS/TCS, and statutory filings\nOversee e-invoicing, e-way bills, and reconciliations\nWork closely with external advisors on assessments and notices\nBuild a culture of disciplined, predictable compliance\n\nE. Banking, Treasury & External Stakeholders\nManage CC / OD / LC limits, renewals, and negotiations\nBuild robust, long-term relationships with banking partners\nSupport debt planning and fund-raising readiness\nDrive efficiency in treasury management and interest costs\n\nF. Leadership & Governance\nServe as a trusted financial advisor to the CEO and leadership team\nBring an objective, data-led perspective to key business decisions\nBuild, mentor, and scale a high-quality finance team\nLead process and system maturity, including ERP and automation where relevant\nAuthority & Decision Rights\nSet and enforce dealer credit limits\nPlace dispatch holds for overdue accounts\nApprove capex within agreed thresholds\nDirect access to CEO / Board on financial risks and opportunities\n\nMandatory\nChartered Accountant (CA)\n10–15 years of relevant experience\nExperience in manufacturing, consumer appliances, FMCG, or distribution-heavy business\nStrong hands-on exposure to GST, audits, and working capital",
       "job_is_remote": false,
-      "job_posted_at": "6 days ago",
+      "job_posted_at": "7 days ago",
       "job_posted_at_timestamp": 1772928000,
       "job_posted_at_datetime_utc": "2026-03-08T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -726,33 +697,74 @@
       "job_onet_job_zone": "4"
     },
     {
-      "job_id": "BLq9Fdph2QCssikBAAAAAA==",
-      "job_title": "Senior Financial Planning and Analysis Analyst",
-      "employer_name": "Evolent Health International",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNNcxwtgNtO1BJUXvncYZ42BUyiOghF4FuAU-&s=0",
-      "employer_website": "https://www.evolent.com",
-      "job_publisher": "Apna Jobs",
+      "job_id": "U30CH8H46t6GnWP5AAAAAA==",
+      "job_title": "Analyst - FP&A  (IN)",
+      "employer_name": "Cencora",
+      "employer_logo": null,
+      "employer_website": "https://www.cencora.com",
+      "job_publisher": "Cencora Careers",
       "job_employment_type": "Full-time",
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://apna.co/job/pune/sr-analyst-financial-planning-and-analysis-1089691993?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_link": "https://careers.cencora.com/us/en/job/R2520896/Analyst-FP-A-IN",
       "job_apply_is_direct": false,
       "apply_options": [
         {
-          "publisher": "Apna Jobs",
-          "apply_link": "https://apna.co/job/pune/sr-analyst-financial-planning-and-analysis-1089691993?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "apply_link": "https://apna.co/job/pune/sr-analyst-financial-planning-and-analysis-1089691993",
+          "apply_link": "https://careers.cencora.com/us/en/job/R2520896/Analyst-FP-A-IN",
           "is_direct": null,
-          "publisher": "Apna Jobs"
+          "publisher": "Cencora Careers"
         }
       ],
-      "job_description": "Sr Analyst, Financial Planning & Analysis\n\nYour Future Evolves Here\n\nEvolent Health has a bold mission to change the health of the nation by changing the way health care is delivered. Our pursuit of this mission is the driving force that brings us to work each day. We believe in embracing new ideas, challenging ourselves and failing forward. We respect and celebrate individual talents and team wins. We have fun while working hard and Evolenteers often make a difference working in everything from scrubs to jeans.\n\nAre we growing? Absolutely and Globally. In 2021 we grew our teams by almost 50% and continue to grow even more in 2022. Are we recognized as a company you are supported by for your career and growth, and a great place to work? Definitely. Evolent Health International (Pune, India) has been certified as “Great Places to Work” in 2021. In 2020 and 2021 Evolent in the U.S. was both named Best Company for Women to Advance list by Parity.org and earned a perfect score on the Human Rights Campaign (HRC) Foundation’s Corporate Equality Index (CEI). This index is the nation's foremost benchmarking survey and report measuring corporate policies and practices related to LGBTQ+ workplace equality.\n\nWe recognize employees that live our values, give back to our communities each year, and are champions for bringing our whole selves to work each day. If you’re looking for a place where your work can be personally and professionally rewarding, don’t just join a company with a mission. Join a mission with a company behind it.\n\nWhat You’ll Be Doing:\n\nJob Description: Senior Analyst, Strategic Finance\n\nPosition Overview: We are seeking a Senior Analyst for our Strategic Finance team to support the Product and Technology Business Line. This role will support the company's financial planning, forecasting, budgeting, and reporting functions. The Senior FP&A Analyst will work closely with Accounting, Procurement, and department heads to provide insights and financial analysis that drive business decisions. The ideal candidate will have experience in managing monthly accruals, accounting processes, procurement processes, and will possess strong analytical and problem-solving abilities to drive business performance.\n\nResponsibilities:\n\nSupport the Finance team by executing key deliverables below with excellent attention to detail:\n\n· Work closely with the accounting team to ensure proper documentation and recording of accruals, journal entries, and other financial transactions (e.g., capital project codes, spend category, cost center, etc.).\n• Provide financial oversight of procurement activities and ensure proper accounting treatment of purchasing and vendor transactions\n• Maintain and update existing standard models (e.g., staffing, detailed budget builds, etc.) as well as contribute to further development of those models related to new initiatives (e.g., new strategic initiatives, staff versus contractor evaluation, CapEx strategy, etc.)\n• Manage the monthly accrual process, ensuring accurate recognition of expenses in accordance with accounting principles and company policies.\n\n· Assist with month-end and year-end closing activities to ensure timely and accurate financial reporting.\n• Support monthly, quarterly, and annual reporting and budgeting cycles with KPIs, and insights tailored to Technology and Product leadership. Including: developing cost center budgets, capital planning, and project-level forecasting for Technology investments and Product initiatives.\n• Track department-level performance (supporting business line leaders with monthly reports headcount, spend, variance analysis, department P&L forecasting)\n• Maintain, create, automate, and improve Adaptive Insights financial models and reporting templates, focused on the evolving needs of the Technology and Product business area\n• Liaise with other teams under the Finance umbrella (e.g., Accounting) to maintain accurate forecasting and partner on month-end variance analyses to better refine monthly forecasting\n• Support special projects, including ROI analysis for new Technology investments, Product launches, and platform enhancements.\n\nThe Experience We Prefer:\n• Chartered Accountant/CPA, CMA or Master’s degree in Business Finance or equivalent experience\n• 3-5 years of experience as an Analyst or Associate in corporate finance (FP&A), investment banking, or other Finance role with financial modeling experience and ideally coming from an institution with a training / rotational / development program\n• Proactive problem-solving skills with the ability to work independently\n• Ability to take initiative while managing time across multiple workstreams and stakeholders\n• Experience working with Accounts Payable, Accounting, and Procurement teams for invoice, Purchase Order, and accrual related items\n• Extensive experience using Microsoft Excel\n• Strong analytical abilities, with a track record of identifying insights from financial information and translating into business analytics and recommendations with a high level of accuracy\n• Experience with ERP systems (e.g., Workday, SAP, Oracle) and FP&A tools (e.g., Hyperion, Adaptive Insights, Office Connect) is preferred.\n\nTo ensure a secure hiring process we have implemented several identity verification steps, including submission of a government issued photo ID. We conduct identity verification during interviews, and final interviews may require onsite attendance. All candidates must complete a comprehensive background check, in-person I-9 verification, and may be subject to drug screening prior to employment. The use of artificial intelligence tools during interviews is prohibited and monitored. Misrepresentation will result in immediate disqualification from consideration.\n\nMandatory Requirements:\n\nEmployees must have a high-speed broadband internet connection with a minimum speed of 50 Mbps and the ability to set up a wired connection to their home network to ensure effective remote work. These requirements may be updated as needed by the business.\n\n​\n\nEvolent Health is an equal opportunity employer and considers all qualified applicants equally without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, or disability status.\nExperience Level\nSenior Level",
+      "job_description": null,
       "job_is_remote": false,
+      "job_no_degree_mentioned": null,
       "job_posted_at": "8 days ago",
+      "job_posted_at_timestamp": 1772841600,
+      "job_posted_at_datetime_utc": "2026-03-07T00:00:00.000Z",
+      "job_location": "Pune, Maharashtra, India",
+      "job_city": "Pune",
+      "job_state": "Maharashtra",
+      "job_country": "IN",
+      "job_latitude": 18.5246091,
+      "job_longitude": 73.8786239,
+      "job_benefits": null,
+      "job_benefits_strings": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU30CH8H46t6GnWP5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_salary_string": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": null,
+      "job_onet_job_zone": null,
+      "employer_reviews": null
+    },
+    {
+      "job_id": "3qnVXA85wR8WOAdGAAAAAA==",
+      "job_title": "RC FS - FS FINANCE - Finance Operations - General Ledger - Investment Accounting - FP And A -Agile",
+      "employer_name": "EY",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZ66B6ghniNTEFs4o7QLTG1RvcBKx1cs9hzyP&s=0",
+      "employer_website": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://in.linkedin.com/jobs/view/rc-fs-fs-finance-finance-operations-general-ledger-investment-accounting-fp-and-a-agile-at-ey-4380277446",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "apply_link": "https://in.linkedin.com/jobs/view/rc-fs-fs-finance-finance-operations-general-ledger-investment-accounting-fp-and-a-agile-at-ey-4380277446",
+          "is_direct": null,
+          "publisher": "LinkedIn"
+        }
+      ],
+      "job_description": null,
+      "job_is_remote": false,
+      "job_no_degree_mentioned": null,
+      "job_posted_at": "9 days ago",
       "job_posted_at_timestamp": 1772755200,
       "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -762,14 +774,17 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBLq9Fdph2QCssikBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_benefits_strings": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3qnVXA85wR8WOAdGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
+      "job_salary_string": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": "13205100",
-      "job_onet_job_zone": "4"
+      "job_onet_soc": null,
+      "job_onet_job_zone": null,
+      "employer_reviews": null
     },
     {
       "job_id": "woRvlbOzajh6TX-zAAAAAA==",
@@ -798,7 +813,7 @@
       ],
       "job_description": "Company Description\n\nAlgoneeti is a forward-thinking organization focused on creating innovative financial solutions specifically for the stock market sector. Our expert-driven approach aims to assist clients in navigating the complexities of the stock market, while offering tailored strategies to optimize their investments. We are committed to fostering a dynamic, collaborative, and growth-oriented work culture to drive success for our team and clients.\n\nRole Description\n\nThis is a full-time, on-site role for a Stock Market Sales Executive based in Wakad,Pune. The Stock Market Sales Executive will be responsible for identifying potential clients, building and managing client relationships, promoting stock market solutions, and meeting sales targets. The role also encompasses staying up to date with market trends, providing financial insights, and delivering exceptional customer service to achieve overall sales growth and client satisfaction.\n\nQualifications\n• Strong expertise in sales, client acquisition, and relationship management\n• In-depth knowledge of stock markets, financial strategies, and investment opportunities\n• Effective communication, presentation, and negotiation skills\n• Analytical thinking, problem-solving abilities, and attention to detail\n• Proficiency in using financial software, CRM tools, and MS Office applications\n• Ability to work in a collaborative, high-paced, goal-driven environment\n• Prior experience in stock market sales or financial services preferred\n• Bachelor's degree in Finance, Business, Economics, or related field is beneficial\nWhat We Offer\n\n✨ Competitive Fixed Salary + Attractive Incentives\n\n✨ Performance-based Bonuses\n\n✨ Complete Training & Market Knowledge Support (for Freshers)\n\n✨ Fast-track Growth into Senior / Team Lead Roles\n\n✨ Energetic and Growth-Oriented Work Environment",
       "job_is_remote": false,
-      "job_posted_at": "9 days ago",
+      "job_posted_at": "10 days ago",
       "job_posted_at_timestamp": 1772668800,
       "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
       "job_location": "Mulshi, Maharashtra, India",
@@ -828,53 +843,19 @@
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://careers.principal.com/Ben/jobs/50277?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_apply_is_direct": true,
+      "job_apply_link": "https://careers.principal.com/Ben/jobs/50277?lang=en-us",
+      "job_apply_is_direct": false,
       "apply_options": [
-        {
-          "publisher": "Careers At Principal - Principal Financial",
-          "apply_link": "https://careers.principal.com/Ben/jobs/50277?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": true
-        },
-        {
-          "publisher": "SimplyHired",
-          "apply_link": "https://www.simplyhired.co.in/job/aR-Mn9qAoAVjKZcJAAZr0SOc5dNo4N2xYyvuo8yYHIb6p4BLR18aew?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Foundit",
-          "apply_link": "https://www.foundit.in/job/analyst-accounting-principal-global-services-pune-47118354?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jooble",
-          "apply_link": "https://in.jooble.org/rjdp/-3561487896482257331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "BeBee",
-          "apply_link": "https://in.bebee.com/job/0833247b4d725a78da1fb3f6ca7eb1d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jobaaj",
-          "apply_link": "https://www.jobaaj.com/job/principal-global-services-analyst-accounting-pune-maharashtra-india-3-to-4-years-409952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": true
-        },
-        {
-          "publisher": "In.jobrapido.com",
-          "apply_link": "https://in.jobrapido.com/jobpreview/5931190915543597056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
         {
           "apply_link": "https://careers.principal.com/Ben/jobs/50277?lang=en-us",
           "is_direct": null,
           "publisher": "Careers At Principal - Principal Financial"
         }
       ],
-      "job_description": "Responsibilities\n\nAbout the Role\n\nJoin a collaborative, high-impact team supporting the pension and asset management accounting operations of Principal Financial Group. We're looking for an accounting professional who can work independently, think analytically, and proactively solve problems. If you enjoy improving processes, strengthening controls, and bringing efficiency to financial operations, this role is a great fit!\n\nAs an Analyst – Accounting, you will work across a variety of accounting processes while developing a strong understanding of our end-to-end operations. You’ll research issues, resolve discrepancies, and support key financial reporting activities. Your perspective centered on process and curiosity will help you see opportunities to improve workflows and encourage continuous progress.\n\nWhat You’ll Do\n\nIn this position, you will:\n• Research, reconcile, and update financial transactions\n• Process and post diverse types of journal entries\n• Perform general ledger and balance sheet reconciliations\n• Update and maintain transaction details in internal databases and applications\n• Prepare financial reports, supporting schedules, and perform variance analysis\n\nQualifications\n\nWhat You’ll Bring\n\nYou’ll thrive in this position if you have:\n\nExperience & Education\n• More than 2 years of experience in Finance or Accounting, preferably within an offshore setting\n• A degree in Commerce, CA/ICWA Inter, or MBA Finance, or equivalent experience\n• CA Articleship or background in an offshore environment (preferred)\n\nSkills & Proficiencies\n• Solid grasp of the accounting cycle and basic principles\n• Ability to quickly learn new business processes\n• Hands-on experience with AP/AR/GL activities\n• Basic knowledge of invoice booking and payment processes\n• Experience performing account reconciliations\n• Proficiency in Excel and MS Office (Word/PowerPoint)\n• Ability to learn and use accounting applications, ERPs, and reporting tools\n• Strong analytical, problem-solving, and planning skills\n• Excellent verbal and written English communication skills\n• A collaborative approach with the ability to work effectively in a team\n\nAdditional Information\n\nShift Options\n\nWe offer two flexible shift timings:\n• 9:00 AM – 6:00 PM\n• 1:30 PM – 10:30 PM\n\nLocation\n\nThis position is based in our Pune, Maharashtra office.",
+      "job_description": null,
       "job_is_remote": false,
-      "job_posted_at": "10 days ago",
+      "job_no_degree_mentioned": null,
+      "job_posted_at": "11 days ago",
       "job_posted_at_timestamp": 1772582400,
       "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -884,14 +865,17 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
+      "job_benefits_strings": null,
       "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHAVPTv8Xj2ChGaihAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
+      "job_salary_string": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": "13201100",
-      "job_onet_job_zone": "4"
+      "job_onet_soc": null,
+      "job_onet_job_zone": null,
+      "employer_reviews": null
     },
     {
       "job_id": "FcZYpaCJn-aUrhaJAAAAAA==",
@@ -904,28 +888,19 @@
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://builtin.com/job/gg10-tl-am-fp-a-msepl-finance-pune/8636798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_link": "https://builtin.com/job/gg10-tl-am-fp-a-msepl-finance-pune/8636798",
       "job_apply_is_direct": false,
       "apply_options": [
-        {
-          "publisher": "Built In",
-          "apply_link": "https://builtin.com/job/gg10-tl-am-fp-a-msepl-finance-pune/8636798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Pune Tech & Startups",
-          "apply_link": "https://builtinpune.in/job/gg10-tl-am-fp-a-msepl-finance-pune/8636798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
         {
           "apply_link": "https://builtin.com/job/gg10-tl-am-fp-a-msepl-finance-pune/8636798",
           "is_direct": null,
           "publisher": "Built In"
         }
       ],
-      "job_description": "Description and Requirements\n1. Finance support to the\n• India Technology Centers\n• GSS Organization\n• GTO Finance\n2. This resource will work very closely with the MSEPL Finance FP&A & Other teams to ensure that the GOSC Financial goals are being measured, tracked and reported in a timely and accurate manner. He / She will also work closely with Functional and service delivery teams to ensure that all corporate submissions / deliverables are timely and accurate.\nJob Responsibiliti es\n1. Revenue Management\no Annual planning cycle / Rolling Forecasts\n§ Development annual budgets and monthly rolling forecasts with variance commentary reporting\n§ Facilitate the planning cycle calendarizatio n, setup review mechanisms, prepare formats (Excel / PowerPoint / MetLife systems) for consolidation and presentations to Management\no Monthly Revenue and Billing Management\n§ Front end discussions with Service Delivery and Functions to prepare monthly Invoice\n§ Raise the monthly invoice to all stakeholders and align with Enterprise systems\no Partner with central team for all consolidation and monthly variance reporting\n2. Expense Management\no Annual planning cycle / Rolling Forecasts\n§ Development annual budgets and monthly rolling forecasts with variance commentary reporting\n§ Front end discussions with Service Delivery and Functions to prepare annual budgets and monthly forecast\no Monthly Performance\n§ Ensure all expense variances are accurately reported and in line Business / Management expectations\n§ Ensure all Financial information and drivers are tracked for Management reporting\n§ Track and report all financial & non-financial drivers\n§ Periodic variance analysis and reviews working with budget owners.\no Partner with central team for all consolidation and monthly variance reporting\n3. Business performance Analysis & Reporting\no Monthly Financial Performance reviews and reporting pack preparation and circulation for MORs\no Variance analysis, closure and trending analysis against previous months and budgets support for Corporate submissions\no Preparing reporting packs and various other adhoc decision support/ review reports and analysis.\no Facilitate and support any new projects\nKnowledge, Skills and Abilities\nEducation\n• MBA / CA / CFA\nExperience\n• Total experience of 3-4 years, with relevant experience of 3 years.\nKnowledge and skills (general and technical)\n• Strong analytical skills and problem-solvin g skills\n• Strong experience on consolidation and reporting for Corporate stakeholders\n• Should have skills to analyze data and provide inputs on trends, patterns, etc. which will be useful to the business\n• Good written and oral communication skills\n• Strong understanding and comprehension of the English language\n• Ability to establish priorities and handle multiple assignments concurrently with minimal direction in an evolving, fast paced work environment\n• Demonstrate ability to work independently and in a team environment\n• Self-disciplin ed and results oriented\nAbout MetLife\nRecognized on Fortune magazine's list of the \"World's Most Admired Companies\" and Fortune World's 25 Best Workplaces™, MetLife, through its subsidiaries and affiliates, is one of the world's leading financial services companies; providing insurance, annuities, employee benefits and asset management to individual and institutional customers. With operations in more than 40 markets, we hold leading positions in the United States, Latin America, Asia, Europe, and the Middle East.\nOur purpose is simple - to help our colleagues, customers, communities, and the world at large create a more confident future. United by purpose and guided by our core values - Win Together, Do the Right Thing, Deliver Impact Over Activity, and Think Ahead - we're inspired to transform the next century in financial services. At MetLife, it's #AllTogetherPossible . Join us!\n#BI-Hybrid",
+      "job_description": null,
       "job_is_remote": false,
-      "job_posted_at": "11 days ago",
+      "job_no_degree_mentioned": null,
+      "job_posted_at": "12 days ago",
       "job_posted_at_timestamp": 1772496000,
       "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -935,14 +910,17 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
+      "job_benefits_strings": null,
       "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFcZYpaCJn-aUrhaJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
+      "job_salary_string": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
       "job_onet_soc": null,
-      "job_onet_job_zone": null
+      "job_onet_job_zone": null,
+      "employer_reviews": null
     },
     {
       "job_id": "tuCZRPKjWb7mCveqAAAAAA==",
@@ -971,7 +949,7 @@
       ],
       "job_description": "At EY, we’re all in to shape your future with confidence.\n\nWe’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n\nJoin EY and help to build a better working world.\n\nSenior- FTS And V (Process/TOM)\n\nEY – GDS – Consulting – Finance\n\nAs part of our EY - Finance Consulting Team, you will help clients develop their Performance Improvement initiatives and identify potential opportunities for performance improvements drive them. This includes techno-functional role conducting finance processes assessments, deep diving and analysing pain areas and coming up with solutions. The client base spans across industries and countries.\n\nThe opportunity\n\nWe’re looking for Consultant / Sr. Consultant with expertise in Process Assessment assignments with process mapping experience. Also, experience in FP&A, Financial Accounting and Reporting domain is an added advantage to join the global EY - Finance Consulting team. This is a fantastic opportunity to be part of a leading firm whilst being instrumental in the growth of a new service offering.\n\nYour Key Responsibilities\n• Experience with finance functions – ‘Record to report’, ‘Procure to pay’ and ‘Order to cash’ processes involving account reconciliations, Journals, Transaction matching, Variance analysis, intercompany and Fixed assets accounting / management\n• Conduct workshops with clients to perform current state As-Is process assessment and design & optimize Future state processes as per leading practices & industry benchmarks\n• Identify process improvement opportunities using automation, technology upgradation & process standardization, Finance Transformation and Operation model design and Assessments\n• Create L1-L5 “As-Is” and “To-Be” process mapping using tools such as Planview, Nimbus, ARIS, IBM Blueworks and Visio\n• Experience in implementation and development of process mapping tools for business functions\n• Design KPIs and Control frameworks for O2C, P2P and R2R processes\n• Strong accounting skills and understands financial reports and statements\n• Knowledge on Financial Consolidation, Cost Allocation, Finance Planning and Budgeting Processes\n• Should have knowledge of activities in financial close of an organisation for month / Quarter / Annual close periods\n• Good Knowledge on ledger and sub-ledger systems; technical know-how of SAP ERP / HANA, Oracle GL (good to have)\n• Translate business requirements to technical language and model (good to have)\n• Good experience in Chart of accounts (CoA) design\n• Managing/ supervising teams of people on project work\n• Ability to effectively prioritize and execute tasks in a high-pressure\n• Open to travel (Domestic & International)\n\nSkills And Attributes For Success\n• Consulting experience is a good to have\n• Confident & professional communication style\n• Proficiency in English (oral and written)\n• Ability to clearly articulate messages to a variety of audiences\n• Flexible and adaptable; able to work in ambiguous situations\n• Able to work effectively at all levels in an organization\n• Capability to influence others and move toward a common vision or goal\n• Must be a team player and able to work collaboratively with and through others\n• Strong analytical skills as well as excellent problem-solving skills for interpreting the IFRS standards\n\nTo qualify for the role, you must have\n• CA, CFA, CPA, MBA OR Master’s in business administration in Finance\n• 1-2 years (for Staff level) and 3-6 years (for Senior level) of work experience in Finance domain\n• Strong Excel and PowerPoint skills\n\nIdeally, you’ll also have\n• Exposure to tools like ERP, HFM, Visio, ARIS, BlueWorks, Celonis, Alteryx, etc.\n• Project management skills, stakeholder management\n• Finance Transformation\n\nWhat We Look For\n• A Team of people with commercial acumen, technical experience and enthusiasm to learn new things in this fast-moving environment\n• Opportunities to work with EY Advisory practices globally with leading businesses across a range of industries\n\nWhat Working At EY Offers\n\nAt EY, we’re dedicated to helping our clients, from world’s top companies — and the work we do with them is as varied as they are. You get to work with inspiring and meaningful projects. Our focus is education and coaching alongside practical experience to ensure your personal development. We value our employees and you will be able to control your own development with an individual progression plan. You will quickly grow into a responsible role with challenging and stimulating assignments. Moreover, you will be part of an interdisciplinary environment that emphasizes high quality and knowledge exchange. Plus, we offer:\n• Support, coaching and feedback from some of the most engaging colleagues around\n• Opportunities to develop new skills and progress your career\n• The freedom and flexibility to handle your role in a way that’s right for you\n\nEY | Building a better working world\n\nEY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.\n\nEnabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.\n\nEY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.",
       "job_is_remote": false,
-      "job_posted_at": "12 days ago",
+      "job_posted_at": "13 days ago",
       "job_posted_at_timestamp": 1772409600,
       "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -991,126 +969,70 @@
       "job_onet_job_zone": "4"
     },
     {
-      "job_id": "nLFuqzEYTaZHFFx5AAAAAA==",
-      "job_title": "Capital Model Risk Analyst For NBFC",
-      "employer_name": "Skill Ventory",
-      "employer_logo": null,
-      "employer_website": "https://skillventory.com",
-      "job_publisher": "BeBee",
+      "job_id": "h8BRkU_IB5vGRSi-AAAAAA==",
+      "job_title": "Chartered Accountant/ Semi Qualified CA - Internal Audit",
+      "employer_name": "P G BHAGWAT LLP",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuodloawva8qCNQexksqPiK8l2jSWyrHXlBtCe&s=0",
+      "employer_website": null,
+      "job_publisher": "Glassdoor",
       "job_employment_type": "Full-time",
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://in.bebee.com/job/4674e58b93df8660a0685cd718010f43?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_apply_is_direct": false,
+      "job_apply_link": "https://www.glassdoor.co.in/job-listing/chartered-accountant-semi-qualified-ca-internal-audit-mspg-bhagwat-chartered-accountants-JV_IC2856202_KO0,53_KE54,88.htm?jl=1009857315031&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
       "apply_options": [
-        {
-          "publisher": "BeBee",
-          "apply_link": "https://in.bebee.com/job/4674e58b93df8660a0685cd718010f43?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "WhatJobs",
-          "apply_link": "https://en-in.whatjobs.com/jobs/risk-management?id=224991891&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "In.jobrapido.com",
-          "apply_link": "https://in.jobrapido.com/jobpreview/6176217951524356096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "apply_link": "https://in.bebee.com/job/4674e58b93df8660a0685cd718010f43",
-          "is_direct": null,
-          "publisher": "BeBee"
-        }
-      ],
-      "job_description": "Capital Model Risk Analyst Role at skill-ventory\nRisk Management Overview\n\nBajaj Finance prioritizes risk management, with most decisions driven by data analysis and statistical models. These models assess various dimensions, including expected and unexpected credit loss, scenario analysis, and forecasting.\nKey Responsibilities:",
-      "job_is_remote": false,
-      "job_posted_at": "13 days ago",
-      "job_posted_at_timestamp": 1772323200,
-      "job_posted_at_datetime_utc": "2026-03-01T00:00:00.000Z",
-      "job_location": "Pune, Maharashtra, India",
-      "job_city": "Pune",
-      "job_state": "Maharashtra",
-      "job_country": "IN",
-      "job_latitude": 18.5246091,
-      "job_longitude": 73.8786239,
-      "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnLFuqzEYTaZHFFx5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-      "job_salary": null,
-      "job_min_salary": null,
-      "job_max_salary": null,
-      "job_salary_period": null,
-      "job_highlights": {},
-      "job_onet_soc": "13209900",
-      "job_onet_job_zone": "4"
-    },
-    {
-      "job_id": "H-G6wmj5On_CDSNPAAAAAA==",
-      "job_title": "Financial Planning analyst",
-      "employer_name": "Wolters Kluwer",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2wSfCVI9ZGbjBNF-6d3KuhDj_SS-0wwksSGU&s=0",
-      "employer_website": "https://www.wolterskluwer.com",
-      "job_publisher": "SimplyHired",
-      "job_employment_type": "Full-time",
-      "job_employment_types": [
-        "FULLTIME"
-      ],
-      "job_apply_link": "https://www.simplyhired.co.in/job/7z_8dIfyhYfh7dvwhucjnEFxr_HFgSRhYYCegZThn0x65S8PTROUNw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_apply_is_direct": false,
-      "apply_options": [
-        {
-          "publisher": "SimplyHired",
-          "apply_link": "https://www.simplyhired.co.in/job/7z_8dIfyhYfh7dvwhucjnEFxr_HFgSRhYYCegZThn0x65S8PTROUNw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
         {
           "publisher": "Glassdoor",
-          "apply_link": "https://www.glassdoor.co.in/job-listing/financial-planning-analyst-wolters-kluwer-JV_IC2856202_KO0,26_KE27,41.htm?jl=1010047696260&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
+          "apply_link": "https://www.glassdoor.co.in/job-listing/chartered-accountant-semi-qualified-ca-internal-audit-mspg-bhagwat-chartered-accountants-JV_IC2856202_KO0,53_KE54,88.htm?jl=1009857315031&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
         },
         {
           "publisher": "Foundit",
-          "apply_link": "https://www.foundit.in/job/financial-planning-analyst-wolters-kluwer-india-private-limited-pune-46706839?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "apply_link": "https://www.foundit.in/job/chartered-accountant-semi-qualified-ca-internal-audit-p-g-bhagwat-llp-pune-47178240?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
           "is_direct": false
         },
         {
           "publisher": "Jooble",
-          "apply_link": "https://in.jooble.org/jdp/-7982059494125957644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jobaaj",
-          "apply_link": "https://www.jobaaj.com/job/bajaj-financial-planning-analyst-pune-2-to-4-years-630382?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": true
-        },
-        {
-          "publisher": "BeBee",
-          "apply_link": "https://in.bebee.com/job/84fed72d7653ff4ce96de18a818c6b8b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "apply_link": "https://in.jooble.org/jdp/206249330804089301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
           "is_direct": false
         },
         {
           "publisher": "GetMeReferred",
-          "apply_link": "https://getmereferred.com/job-listing/financial-planning-analyst-xpressbees-busybees-logistics-solutions-pvt-ltd-pune-to-3-years-experience-2955379a-0858-482f-bc3f-80f00ed898c1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "apply_link": "https://getmereferred.com/job-listing/semi-qualified-ca-and-articles-m-d-o-company-chartered-accountants-pune-2-to-5-years-experience-19d12f52-618e-44a1-98b1-4ff0ca03ef1a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
           "is_direct": false
         },
         {
-          "publisher": "Optimize Resumes & Find Jobs Faster With Mployee.me ATS Tools",
-          "apply_link": "https://www.mployee.me/jobs/view/financial-planning-analyst-in-pune-at-capgemini-101125010722/s3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.in/job/HVXeP1Uow88Vk64iPKDNJnrdv90D08emiae_NMsuivyWpTKF_zI4Hw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
           "is_direct": false
         },
         {
-          "apply_link": "https://www.simplyhired.co.in/job/7z_8dIfyhYfh7dvwhucjnEFxr_HFgSRhYYCegZThn0x65S8PTROUNw",
+          "publisher": "Talent.com",
+          "apply_link": "https://in.talent.com/view?id=608252521987575494&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs - India | Trabajo.org",
+          "apply_link": "https://in.trabajo.org/job-1940-7814d4955533d84362f8d6ef87fa2986?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Sercanto",
+          "apply_link": "https://www.sercanto.in/detail/a/sap-analytics-cloud-sac-consultant-with-sap-datasphere_thane_194468045?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "apply_link": "https://www.glassdoor.co.in/job-listing/chartered-accountant-semi-qualified-ca-internal-audit-mspg-bhagwat-chartered-accountants-JV_IC2856202_KO0,53_KE54,88.htm?jl=1009857315031",
           "is_direct": null,
-          "publisher": "SimplyHired"
+          "publisher": "Glassdoor"
         }
       ],
-      "job_description": "ABOUT US\n\nWolters Kluwer is a global leader in professional information services, providing software and content solutions for legal, business, tax, accounting, finance, audit, risk, compliance, and healthcare professionals. Serving clients in over 180 countries with operations in 40+, the company helps professionals make confident decisions and drive results. Headquartered in Alphen aan den Rijn, the Netherlands, it employs around 21,000 people worldwide.\n\nThe Global Finance Shared Services (FSS) is a finance function designed to bring together finance and accounting professionals to streamline and enhance processes and tools. Within FSS, the Finance Centre of Excellence (CoE) in Pune, India, provides centralized financial and analytical support across all Wolters Kluwer divisions. The team, comprising finance professionals and data scientists, focuses on finance reporting harmonization, technology enablement, and reporting and analytics enhancements.\n\nIn this role, you would support the Financial Shared Services (FSS) organization by preparing monthly/quarterly development cost reports, Resource labour planning, conducting variance & risk analyses, and assisting with budget and forecast planning. You would also collaborate with stakeholders to enhance financial processes and contribute to continuous process improvement initiatives.\n\nSUPERVISORY RELATIONSHIPS\n\nReports To : Director, Finance COE\n\nJOB QUALIFICATIONS\n\nJob Posting\n\nAbout the Role:\n\nAs a Financial Planning Analyst - Enterprise Finance , you'll take on more responsibility in the preparation and analysis of financial documents. You'll support a variety of financial processes and projects, focusing on the analysis of financial data to provide insights that support organizational decisions.\n\nResponsibilities:\n• Prepare detailed financial reports and summaries.\n• Conduct financial analysis with some supervision.\n• Support various financial forecasting processes.\n• Assist in the creation and update of financial models.\n• Organize and maintain comprehensive financial data records.\n• Analyze sales trends and provide insights.\n• Contribute to the development of financial plans and budgets.\n• Collaborate with team members on financial projects.\n• Monitor economic progressions and assist in relevant research.\n• Ensure accuracy and consistency in financial documentation.\n\nSkills:\n• Advanced Data Entry: Proficient in detailed financial data entry.\n• Financial Analysis: Capable of conducting financial analyses with oversight.\n• Modeling Support: Skillful in maintaining and updating financial models.\n• Report Generation: Ability to prepare thorough financial reports.\n• Trend Analysis: Skilled at analyzing and summarizing financial trends.\n• Budget Assistance: Assisting in budget preparation and documentation.\n• Research Support: Contributing to economic and financial research activities.\n• Collaboration: Effective in collaborating on team financial projects.\n\nOTHER DUTIES\n• Act as a financial business partner, identifying business issues and opportunities proactively.\n• Collaborate cross-functionally with virtual teams and communicate effectively with leadership.\n• Provide effective reporting for executive presentations.\n• Support Business Unit Finance Teams in Financial Planning and Analysis (FP&A) tasks.\n• Manage and report on the annual budget, conduct monthly and quarterly analyses, and contribute to the 3-year Vision and Strategy Process.\n• Conduct ad-hoc analyses as required.\n\nTRAVEL REQUIREMENTS\n\nMinimal travel might be required.\n\nPHYSICAL DEMANDS\n\nWorking from the Kalyani Nagar, Pune office on a hybrid schedule (Mondays and Tuesdays).\n\nThe above statements are intended to describe the general nature and level of work being performed by most people assigned to this job. They are not intended to be an exhaustive list of all duties and responsibilities and requirements.\n\nOur Interview Practices\n\nTo maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process\n\nApplicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.\n\nOur Interview Practices\n\nTo maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process.\n\nApplicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.",
+      "job_description": "Job Description - Risk Advisory/ Internal Audit\n\nPosition – Chartered Accountant / Semi-Qualified CA\n\nLocation - Pune\n\nEmployment Type - Full-time\n\nRole Overview - Chartered Accountant (Fresher) or Semi-qualified professional with 2–3 years of relevant experience in Internal Audit, Risk Advisory, or related assignments. The candidate will support in conducting risk-based internal audits and assist in identifying process gaps and control weaknesses.\n\nKey Responsibilities\n• Assist in planning and executing internal audit assignments in line with audit scope and risk areas.\n• Perform process walkthroughs, control testing, and documentation of findings.\n• Identify gaps in internal controls, assess risks, and recommend corrective measures.\n• Prepare working papers, draft audit reports, and MIS presentations for management.\n• Coordinate with cross-functional teams and client stakeholders during engagements.\n• Maintain updated knowledge of applicable accounting standards, Companies Act, and SEBI regulations (where relevant).\n• Contribute to developing and improving audit methodologies and checklists.\n\nCandidate Requirements\n\nEducational Qualification\n• Chartered Accountant – Fresher (preferred) OR\n• Semi-qualified CA with 3-4 years of experience in audit/Risk advisory\n\nExperience\n• Hands-on exposure in internal audits, risk-based audits, or statutory audits.\n• Experience with documentation, control testing, and audit working papers.\n• Familiarity with IFC, SOX, or risk frameworks will be an advantage.\n\nSkills & Competencies\n• Strong analytical and problem-solving skills.\n• Good knowledge of accounting principles, auditing standards, and regulatory compliance.\n• Proficiency in MS Excel, PowerPoint, and Word; knowledge of audit tools preferred.\n• Ability to work under deadlines, manage multiple assignments, and adapt to dynamic work environments.\n• Strong communication and report writing skills.\n• Ethical, detail-oriented, and a team player.",
       "job_is_remote": false,
       "job_posted_at": "15 days ago",
-      "job_posted_at_timestamp": 1772150400,
-      "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z",
+      "job_posted_at_timestamp": 1772236800,
+      "job_posted_at_datetime_utc": "2026-02-28T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
       "job_city": "Pune",
       "job_state": "Maharashtra",
@@ -1118,13 +1040,13 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DH-G6wmj5On_CDSNPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dh8BRkU_IB5vGRSi-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": "13205100",
+      "job_onet_soc": "13201100",
       "job_onet_job_zone": "4"
     },
     {
@@ -1132,64 +1054,25 @@
       "job_title": "FP&A Analyst",
       "employer_name": "Johnson Controls International",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBerwGh6vdHIbuDCCP7AML5-QnCqEfwEJ-l1u&s=0",
-      "employer_website": "https://investors.johnsoncontrols.com",
+      "employer_website": "https://www.johnsoncontrols.com",
       "job_publisher": "Johnson Controls Careers",
       "job_employment_type": "Full-time",
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://jobs.johnsoncontrols.com/job/WD30262529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_link": "https://jobs.johnsoncontrols.com/job/WD30262529",
       "job_apply_is_direct": false,
       "apply_options": [
-        {
-          "publisher": "Johnson Controls Careers",
-          "apply_link": "https://jobs.johnsoncontrols.com/job/WD30262529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "SimplyHired",
-          "apply_link": "https://www.simplyhired.co.in/job/7XYUoW3YkYW-73AQtI_8VoYxuz5yLtmMUDpkv0cUoBnTZUrkjwM79Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Foundit",
-          "apply_link": "https://www.foundit.in/job/fp-a-analyst-acca-careers-pune-46830724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jooble",
-          "apply_link": "https://in.jooble.org/jdp/1356378637267891874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "BeBee",
-          "apply_link": "https://in.bebee.com/job/9d3d89e13bca6997514d9c1c74a04945?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "GetMeReferred",
-          "apply_link": "https://getmereferred.com/job-listing/fpa-analyst-johnson-controls-pune-to-3-years-experience-33e7a475-47d1-461a-a254-69e853b0563a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Talent.com",
-          "apply_link": "https://in.talent.com/view?id=6c63125d091b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Talentify",
-          "apply_link": "https://www.talentify.io/job/fp-and-a-analyst-pune-maharashtra-in-johnson-controls-1-wd30262529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
         {
           "apply_link": "https://jobs.johnsoncontrols.com/job/WD30262529",
           "is_direct": null,
           "publisher": "Johnson Controls Careers"
         }
       ],
-      "job_description": "Who we are?\n\nJohnson Controls is the global leader for smart, healthy and sustainable buildings. At Johnson Controls, we’ve been making buildings smarter since 1885, and our capabilities, depth of innovation experience, and global reach have been growing ever since. Today, we offer the world’s largest portfolio of building products, technologies, software, and services; we put that portfolio to work to transform the environments where people live, work, learn and play.\n\nThis is where Johnson Controls comes in, helping drive the outcomes that matter most. Through a full range of systems and digital solutions, we make your buildings smarter. A smarter building is safer, more comfortable, more efficient, and, ultimately, more sustainable. Most important, smarter buildings let you focus more intensely on your unique mission. Better for your people. Better for your bottom line. Better for the planet. We’re helping to create a healthy planet with solutions that decrease energy use, reduce waste and make carbon neutrality a reality. Sustainability is a top priority for our company.\n\nWe committed to invest 75 percent of new product development R&D in climate-related innovation to develop sustainable products and services. We take sustainability seriously. Achieving net zero carbon emissions before 2040 is just one of our commitments to making the world a better place.\n\nPlease visit and follow Johnson Controls LinkedIn for recent exciting activities.\n\nWhy JCI: https://www.youtube.com/watch?v=nrbigjbpxkg\n\nAsia-Pacific LinkedIn: https://www.linkedin.com/showcase/johnson-controls-asia-pacific/posts/?feedView=all\n\nCareer: The Power Behind Your Mission\n\nOpenBlue: This is How a Space Comes Alive\n\nHow will you do it?\n\nThe senior finance analysis is responsible for handling FP&A matters, including coordination with the functional department and business operations. He or She has the overall responsibility for preparing the HQ level reporting on a monthly basis and outlook rolling report by quarter and consolidated all HQ financial statements. He or she also has the responsibility of monitoring of the overall compliance with Johnson Controls´ finance policies, procedures and timelines applicable to the respective country’s legal entities.\n\nPrimary Duties:\n\nBusiness partner\n\n1. Review all of cost center and make appropriate accrual to ensure the P&L is fluctuated on a reasonable or explainable level.\n\n2. MEC activities and variance to normal.\n\n3. Monitor each cost center and make sure the allocation to be done.\n\nFinancial Reporting:\n\n1. Assist the uploading work to HFM Essbase for yearly planning and rolling forecast on a quarterly basis.\n\n2. Prepare and report to the HQ’ flash and outlook per timeline.\n\n3. Provide the details actual data vs plan vs last year report to different functions.\n\nFinance function:\n\n1. Work closely with functional department for all end-to-end finance support, big projects’ expense and progress tracking to month-end closing.\n\n2. Track to actual data with trend flux analyze rolling 3 months.\n\nSkills and Competencies Required:\n• Bachelor’s degree with accounting/finance major\n• Previous financial and management reporting experience with an Multinational Corporate Finance or American company\n• 5+ Years of relevant work experience\n• Good command of English\n• In depth knowledge of U.S. GAAP\n• Good SAP knowledge with hands-on experience using the ERP\n• Good Excel and Hyperion Financial Management system\n• Excellent interpersonal\n• Strong customer service focus\n\nWhat we offer:\n\nWe offer an exciting and challenging position. Joining us you will become part of a leading global multi-industrial corporation defined by its stimulating work environment and job satisfaction. In addition, we offer outstanding career development opportunities which will stretch your abilities and channel your talents\n\nDiversity & Inclusion Our dedication to diversity and inclusion starts with our values. We lead with integrity and purpose, focusing on the future and aligning with our customers’ vision for success. Our High-Performance Culture ensures that we have the best talent that is highly engaged and eager to innovate.  Our D&I mission elevates each employee’s responsibility to contribute to our culture. It’s through these contributions that we’ll drive the mindsets and behaviors we need to power our customers’ missions. You have the power. You have the voice. You have the culture in your hands.",
+      "job_description": null,
       "job_is_remote": false,
-      "job_posted_at": "17 days ago",
+      "job_no_degree_mentioned": null,
+      "job_posted_at": "18 days ago",
       "job_posted_at_timestamp": 1771977600,
       "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -1199,14 +1082,17 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
+      "job_benefits_strings": null,
       "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnxrT2lsRGYP0NDmxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
+      "job_salary_string": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": "13205100",
-      "job_onet_job_zone": "4"
+      "job_onet_soc": null,
+      "job_onet_job_zone": null,
+      "employer_reviews": null
     },
     {
       "job_id": "RpcVrVE36VoHo_R1AAAAAA==",
@@ -1219,19 +1105,28 @@
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://in.bebee.com/job/f2db9fb3bba1ec24a7c2084894176785",
+      "job_apply_link": "https://in.bebee.com/job/f2db9fb3bba1ec24a7c2084894176785?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_apply_is_direct": false,
       "apply_options": [
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://in.bebee.com/job/f2db9fb3bba1ec24a7c2084894176785?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs.weekday.works",
+          "apply_link": "https://jobs.weekday.works/chartered-accountant-internal-audit-at-p-g-bhagwat-llp-4183772976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
         {
           "apply_link": "https://in.bebee.com/job/f2db9fb3bba1ec24a7c2084894176785",
           "is_direct": null,
           "publisher": "BeBee"
         }
       ],
-      "job_description": null,
+      "job_description": "Job Description\n\nWe are seeking a qualified Chartered Accountant with a strong background in Internal Audit to join our team in Pune.\nThe ideal candidate will have significant experience in auditing listed companies, particularly in the Manufacturing and IT sectors.\n\nThis role involves leading audit engagements from planning through reporting, ensuring compliance, evaluating internal controls, and driving value addition for clients.\nKey\n\nResponsibilities:\nPlan, execute, and manage end-to-end internal audits, including audit committee presentations.\n\nEvaluate internal controls, ensure regulatory compliance, and review the accuracy of financial records.\n\nPrepare detailed audit reports, maintain working papers, and present findings to senior management.\n\nRecommend improvements to systems, processes, and control frameworks.\n\nEnsure adherence to the ICAI's Code of Ethics and firm's values.\n\nStay current with auditing standards, regulatory changes, and conduct internal trainings/seminars.\n\nCollaborate effectively with clients and internal teams; build and maintain strong professional relationships.\n\nIdentify and communicate new opportunities or critical issues to reporting managers or partners.\n\nSupport LLP-level initiatives and be willing to stretch beyond working hours when required.\n\nQualifications & Skills:\nChartered Accountant (CA)\n\nArticleship must be majorly in Internal Audit\n\nExperience with listed companies, preferably in Manufacturing and IT sectors\n\nStrong knowledge of internal audit, risk management, and compliance frameworks\n\nFamiliarity with audit tools and advanced MS Excel skills\n\nExcellent analytical, documentation, and reporting skills\n\nStrong communication and presentation abilities\n\nAbility to work independently and in a team environment\n\nKey Benefits:\nOpportunity to work with reputed listed clients across sectors Strong learning curve and professional development Supportive work environment with emphasis on quality and ethics\n\nFive-day work week ensuring healthy work-life balance",
       "job_is_remote": false,
-      "job_no_degree_mentioned": null,
-      "job_posted_at": "20 days ago",
+      "job_posted_at": "21 days ago",
       "job_posted_at_timestamp": 1771718400,
       "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -1241,97 +1136,13 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
-      "job_benefits_strings": null,
       "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRpcVrVE36VoHo_R1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
-      "job_salary_string": null,
       "job_min_salary": null,
       "job_max_salary": null,
       "job_salary_period": null,
       "job_highlights": {},
-      "job_onet_soc": null,
-      "job_onet_job_zone": null,
-      "employer_reviews": null
-    },
-    {
-      "job_id": "U30CH8H46t6GnWP5AAAAAA==",
-      "job_title": "Analyst - FP&A  (IN)",
-      "employer_name": "Cencora",
-      "employer_logo": null,
-      "employer_website": "https://www.cencora.com",
-      "job_publisher": "Cencora Careers",
-      "job_employment_type": "Full-time",
-      "job_employment_types": [
-        "FULLTIME"
-      ],
-      "job_apply_link": "https://careers.cencora.com/us/en/job/R2520896/Analyst-FP-A-IN?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_apply_is_direct": false,
-      "apply_options": [
-        {
-          "publisher": "Cencora Careers",
-          "apply_link": "https://careers.cencora.com/us/en/job/R2520896/Analyst-FP-A-IN?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Glassdoor",
-          "apply_link": "https://www.glassdoor.co.in/job-listing/analyst-fpa-in-cencora-JV_IC2856202_KO0,14_KE15,22.htm?jl=1009977995571&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Foundit",
-          "apply_link": "https://www.foundit.in/job/analyst-fp-a-in-cencora-pune-47187465?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Bayt.com",
-          "apply_link": "https://www.bayt.com/en/india/jobs/analyst-fp-a-in-73833025/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Adzuna",
-          "apply_link": "https://www.adzuna.in/details/5615631393?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jooble",
-          "apply_link": "https://in.jooble.org/rjdp/-7949132169792637907?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "SimplyHired",
-          "apply_link": "https://www.simplyhired.co.in/job/u7SPjZja8b9OolJXzrKpZc8NtJiYoRBq2KKAIcwCaZxXfDGnZwLwCg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "ANHJobs.com",
-          "apply_link": "https://www.anhjobs.com/jobs/184903329-analyst-fp-a-in?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "apply_link": "https://careers.cencora.com/us/en/job/R2520896/Analyst-FP-A-IN",
-          "is_direct": null,
-          "publisher": "Cencora Careers"
-        }
-      ],
-      "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!\n\nJob Details\n• Financial Planning & Analysis: Input and manage financial data related to Plan, Estimate, and Long Range Plan (LRP) into our Enterprise Planning Management (EPM) system.\n• Monthly Reporting: assist in preparation of monthly reporting packages and other business presentations as required; prepare ad hoc reports as needed.\n• Analysis & Modeling: Evaluate, estimate, and analyze financial and operational impacts of new business prospects.\n• Variance Reporting: Identify and report on variances/changes by reconciling data within various financial systems and data warehouse applications.\n• Provide in-depth analysis of deviations.\n• Expense Management: Oversee operating expenses for departments including operations, distribution, and commercial organizations that drive key distribution channels.\n• Analytical Reporting: Generate year-over-year, quarter-over-quarter, and month-to-date analysis comparing actual results against Plan/Estimate/Prior year metrics for key expense accounts and business drivers.\n• Collaboration With Finance Team: Partner with the Finance team to ensure timely updates to estimates and provide monthly financial reporting to senior management.\n\n.\n\nQualifications:\n• Bachelor’s degree in Finance, Accounting or related field; CPA or CFA certification is a plus.\n• Minimum of 3 years’ experience in financial planning & analysis within a large corporation or global business service environment.\n• Proficiency in Enterprise Planning Management (EPM) systems and Workday.\n• Strong analytical skills with advanced proficiency in Excel; experience with data visualization tools is advantageous.\n• Excellent communication skills with demonstrated ability to work collaboratively across different teams.\n\nWhat Cencora offers\n\n​Benefit offerings outside the US may vary by country and will be aligned to local market practice. The eligibility and effective date may differ for some benefits and for team members covered under collective bargaining agreements.\n\nFull time\n\nAffiliated Companies\nAffiliated Companies: AmerisourceBergen Drug Corporation\n\nEqual Employment Opportunity\n\nCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.\n\nThe company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.\n\nCencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned",
-      "job_is_remote": false,
-      "job_posted_at": "20 days ago",
-      "job_posted_at_timestamp": 1771718400,
-      "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
-      "job_location": "Pune, Maharashtra, India",
-      "job_city": "Pune",
-      "job_state": "Maharashtra",
-      "job_country": "IN",
-      "job_latitude": 18.5246091,
-      "job_longitude": 73.8786239,
-      "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU30CH8H46t6GnWP5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-      "job_salary": null,
-      "job_min_salary": null,
-      "job_max_salary": null,
-      "job_salary_period": null,
-      "job_highlights": {},
-      "job_onet_soc": "13205100",
+      "job_onet_soc": "13201100",
       "job_onet_job_zone": "4"
     },
     {
@@ -1345,38 +1156,19 @@
       "job_employment_types": [
         "FULLTIME"
       ],
-      "job_apply_link": "https://in.talent.com/view?id=7ee1bd01dc47&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_link": "https://in.talent.com/view?id=7ee1bd01dc47",
       "job_apply_is_direct": false,
       "apply_options": [
-        {
-          "publisher": "Talent.com",
-          "apply_link": "https://in.talent.com/view?id=7ee1bd01dc47&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jooble",
-          "apply_link": "https://in.jooble.org/jdp/395610610827150743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Jobrapido.com",
-          "apply_link": "https://in.jobrapido.com/jobpreview/4464665879828758528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
-        {
-          "publisher": "Expertini",
-          "apply_link": "https://pune.in.expertini.com/job/director-of-financial-planning-and-analysis-pune-confidential-3112ecd6189f/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-          "is_direct": false
-        },
         {
           "apply_link": "https://in.talent.com/view?id=7ee1bd01dc47",
           "is_direct": null,
           "publisher": "Talent.com"
         }
       ],
-      "job_description": "Overview\n\nWe are a U.S.-based company seeking a hands-on, detail-oriented, and strategic Director of FP&A to serve as the head of finance and lead all day-to-day and strategic financial operations. This individual will be based in India and will take over responsibilities currently handled by the VP of Finance. The ideal candidate will own the entire finance function—from transaction-level accounting to forward-looking business modeling. They will help improve our financial reporting, forecasting, and cash management practices to support the company’s growth objectives in a dynamic small-business environment.\n\nKey Responsibilities\n\nFinancial Planning & Analysis\n\n· Prepare monthly, quarterly, and annual budget statements and projections.\n\n· Analyze financial data and create reports to review variances by line item against prior periods, prior year, and budget.\n\n· Maintain and improve forecasting models and dashboards to support executive decision-making.\n\n· Create and present ad hoc financial reports and analysis to the CEO and senior team as needed.\n\n· Develop and track KPIs to monitor financial health and operational efficiency.\n\nAccounting & Bookkeeping Oversight\n\n· Ensure accurate and timely data entry into QuickBooks Online.\n\n· Oversee monthly close activities including journal entries and account reconciliations.\n\n· Coordinate with cross-functional teams to ensure accurate financial transaction reporting.\n\n· Maintain ledger integrity and classify expenses accurately.\n\nPayroll & Employee Cost Management\n\n· Manage bi-weekly payroll through ADP, ensuring accurate employee data and compliance with tax and labor laws.\n\n· Track bonus calculations, owner distributions, and payroll allocations.\n\n· Maintain payroll registers and assist with reporting for audits and reviews.\n\nBanking, Treasury & Cash Management\n\n· Serve as the primary contact with U.S.-based banks and ensure compliance with all requirements.\n\n· Monitor and manage daily cash flow using all available sources (e.g., LOC, retailer funding).\n\n· Perform treasury functions including bank reconciliations and liquidity forecasting.\n\n· Support compliance and internal controls over cash handling.\n\nAccounts Payable / Receivable & Expense Monitoring\n\n· Monitor A/R aging and follow up to ensure timely payments from customers.\n\n· Oversee A/P and ensure vendors are paid in accordance with terms.\n\n· Track and manage T&E expenses through Ramp or similar platforms.\n\n· Review credit card statements and receipts for accuracy and policy compliance.\n\nBusiness Intelligence & Reporting\n\n· Run and analyze POS data to generate scorecards for key retail partners.\n\n· Develop financial and operational dashboards for internal reporting.\n\n· Create reports to support retailer negotiations and performance reviews.\n\nStrategic Leadership & Compliance\n\n· Act as head of finance, providing strategic input on growth and cost-containment.\n\n· Ensure full compliance with U.S. GAAP and all financial regulations.\n\n· Identify and implement process improvements across all finance functions.\n\n· Support auditors, tax consultants, and external partners with documentation and schedules.\n\n· Assist in preparing board reports, investor materials, and executive summaries.\n\nQualifications\n\n· Bachelor’s degree in Finance, Accounting, or a related field (MBA or CPA/CMA preferred).\n\n· 8–10 years of progressive finance experience with 3+ years in a leadership role.\n\n· Strong proficiency in QuickBooks Online, ADP, and Excel/Google Sheets (advanced modeling).\n\n· Experience with financial planning, reporting, forecasting, and compliance.\n\n· Familiarity with working for U.S.-based companies and knowledge of U.S. GAAP.\n\n· Excellent communication, organizational, and analytical skills.\n\n· Ability to work independently in a fast-paced, remote, and dynamic environment.\n\n· Based in India with willingness to overlap U.S. Central working hours daily.\n\nPreferred Traits\n\n· Experience supporting e-commerce or retail-related businesses.\n\n· Familiarity with systems like Bill.com, Brex, Ramp, POS portals, or similar.\n\n· Demonstrated ability to improve processes and automate manual workflows.\n\n· Comfortable working with ambiguity and evolving strategic priorities.\n\nCompensation & Benefits\n\n· Competitive salary based on experience and qualifications.\n\n· Performance-based bonus potential.\n\n· Paid time off and recognized company holidays (including U.S. holidays).\n\n· Remote work flexibility with daily structured communication expectations.\n\nTo Apply\n\nPlease submit your resume, a brief cover letter describing your qualifications, and any sample reports or dashboards (if available) that showcase your financial analysis capabilities.",
+      "job_description": null,
       "job_is_remote": false,
-      "job_posted_at": "25 days ago",
+      "job_no_degree_mentioned": null,
+      "job_posted_at": "26 days ago",
       "job_posted_at_timestamp": 1771286400,
       "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
       "job_location": "Pune, Maharashtra, India",
@@ -1386,50 +1178,8 @@
       "job_latitude": 18.5246091,
       "job_longitude": 73.8786239,
       "job_benefits": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaSbZkHYSjRC0ldtAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-      "job_salary": null,
-      "job_min_salary": null,
-      "job_max_salary": null,
-      "job_salary_period": null,
-      "job_highlights": {},
-      "job_onet_soc": "13205100",
-      "job_onet_job_zone": "4"
-    },
-    {
-      "job_id": "wmsiN_-pRr6r2hFUAAAAAA==",
-      "job_title": "Accountant - Ind (finance & Accounts)",
-      "employer_name": "Pattern",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXxMNTPkdXXSPmFuvjCGEHFeH7jS_t1GpzPSJ&s=0",
-      "employer_website": "https://www.pattern.com",
-      "job_publisher": "Lever",
-      "job_employment_type": "Full-time",
-      "job_employment_types": [
-        "FULLTIME"
-      ],
-      "job_apply_link": "https://jobs.lever.co/pattern/0d3e5474-ae8c-4516-819a-d4c784c44844",
-      "job_apply_is_direct": false,
-      "apply_options": [
-        {
-          "apply_link": "https://jobs.lever.co/pattern/0d3e5474-ae8c-4516-819a-d4c784c44844",
-          "is_direct": null,
-          "publisher": "Lever"
-        }
-      ],
-      "job_description": null,
-      "job_is_remote": false,
-      "job_no_degree_mentioned": true,
-      "job_posted_at": "26 days ago",
-      "job_posted_at_timestamp": 1771200000,
-      "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-      "job_location": "Pune, Maharashtra, India",
-      "job_city": "Pune",
-      "job_state": "Maharashtra",
-      "job_country": "IN",
-      "job_latitude": 18.5246091,
-      "job_longitude": 73.8786239,
-      "job_benefits": null,
       "job_benefits_strings": null,
-      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwmsiN_-pRr6r2hFUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaSbZkHYSjRC0ldtAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
       "job_salary": null,
       "job_salary_string": null,
       "job_min_salary": null,
@@ -1439,6 +1189,87 @@
       "job_onet_soc": null,
       "job_onet_job_zone": null,
       "employer_reviews": null
+    },
+    {
+      "job_id": "wmsiN_-pRr6r2hFUAAAAAA==",
+      "job_title": "Accountant - Ind (finance & Accounts)",
+      "employer_name": "Pattern",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXxMNTPkdXXSPmFuvjCGEHFeH7jS_t1GpzPSJ&s=0",
+      "employer_website": null,
+      "job_publisher": "Lever",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://jobs.lever.co/pattern/0d3e5474-ae8c-4516-819a-d4c784c44844?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Lever",
+          "apply_link": "https://jobs.lever.co/pattern/0d3e5474-ae8c-4516-819a-d4c784c44844?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Bayt.com",
+          "apply_link": "https://www.bayt.com/en/india/jobs/accountant-ind-finance-accounts-74131899/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In Pune",
+          "apply_link": "https://builtinpune.in/job/accountant-ind-finance-accounts/8506060?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter India",
+          "apply_link": "https://www.ziprecruiter.in/jobs/500324269-accountant-ind-finance-accounts-at-pattern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://in.bebee.com/job/3b2d43eb463ae28205229cb81e2fa2e5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.in/job/bpEBgG9xBH8FxqWVs4v-4L8t9E5kFbZvJCwoQYeGCo8XMghYNI7nlQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/accountant-ind-finance-accounts/8506060?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "HiringCafe",
+          "apply_link": "https://hiring.cafe/viewjob/kze3lbhhzd0x9kfo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "apply_link": "https://jobs.lever.co/pattern/0d3e5474-ae8c-4516-819a-d4c784c44844",
+          "is_direct": null,
+          "publisher": "Lever"
+        }
+      ],
+      "job_description": "Accountant – Finance & Accounts\n\nRole Overview\n\nWe are looking for an Accountant / Senior Accountant to support the India entity finance functions.\n\nThe role will involve monthly accounting, reconciliations, tax compliances and meeting other\n\nregulatory requirements.\n\n₹12,00,000 - ₹14,00,000 a year\nKey Responsibilities\n1.Accounting\n•Prepare and update the books of accounts on a timely basis\n•Reconcile GL balances and maintain proper documentation\n\n2.Taxation\n•Ensure timely calculation, payment, and filings for GST and corporate tax requirements\n•Maintaining proper tax documentation (Form 16A, challans, returns, etc.)\n•Coordinate with consultants\n\n3.Audit & Regulatory\n•Coordinate with auditors (statutory / tax / internal) for timely completion of audits\n•Maintain audit schedules, supporting documents, and respond to audit queries\n•Assist with corporate secretarial compliance and other regulatory filings\n\n4.Miscellaneous Support\n•Communicate with internal departments for resolving finance-related queries\n•Verifying vendor balances, preparing financials, updating compliance trackers\n\nKey Skills & Attributes\n\n•Qualified Chartered Accountant (CA) with 1–3 years of relevant post-qualification experience\n\n•Strong understanding of Indian accounting standards, taxation, and statutory compliances\n\n•Proficiency in Microsoft Excel and Netsuite\n\n•Detail-oriented, analytical, and strong communication skills\n\n•Self-motivated, proactive, and able to manage day-to-day finance tasks independently\n\nPreferred Background\n\n•Prior experience in mid to large-sized organizations preferably in IT / technology sector\n\n•Experience in accounting and tax is essential\n\n•Exposure to facing audits and tax assessments\n\n•Experience of transfer pricing will be an added advantage",
+      "job_is_remote": false,
+      "job_posted_at": "27 days ago",
+      "job_posted_at_timestamp": 1771200000,
+      "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+      "job_location": "Pune, Maharashtra, India",
+      "job_city": "Pune",
+      "job_state": "Maharashtra",
+      "job_country": "IN",
+      "job_latitude": 18.5246091,
+      "job_longitude": 73.8786239,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwmsiN_-pRr6r2hFUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "13201100",
+      "job_onet_job_zone": "4"
     }
   ]
 }
